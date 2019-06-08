@@ -1,6 +1,6 @@
 Lenguaje de programación Python
 
-* [What's Python](https://www.python.org/doc/essays/blurb/)
+* [What is Python? Executive Summary](https://www.python.org/doc/essays/blurb/)
 
 Referencias:
 
