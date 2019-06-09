@@ -10,4 +10,4 @@ Python3 online:
 
 * https://repl.it/languages/python3
 
-[Clases](clases)
+En el directorio [Clases](clases/) se encuentra información general y clases de cálculo numérico para el propedéutico.
