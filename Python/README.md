@@ -10,7 +10,7 @@ Referencias:
 
 * [Numpy](http://www.numpy.org/).
 
-* [Numpy and Scipy Documentation](https://docs.scipy.org/doc/), en esta liga encontramos también: [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/), [Numpy Reference Guide](https://docs.scipy.org/doc/numpy/reference/) y [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html).
+* [Numpy and Scipy Documentation](https://docs.scipy.org/doc/). En la liga anterior también encontramos: [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/), [Numpy Reference Guide](https://docs.scipy.org/doc/numpy/reference/) y [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html).
 
 Python3 online:
 
