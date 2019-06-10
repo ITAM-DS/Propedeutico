@@ -1,3 +1,3 @@
 En cada directorio encuentran información sobre herramientas:
 
-* [docker](/docker)
+* [docker](/Propedeutico/herramientas/docker)
