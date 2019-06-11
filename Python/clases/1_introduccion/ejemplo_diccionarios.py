@@ -1,3 +1,5 @@
+
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
 #diccionarios:
 print('-'*10)
 dic = {'llave1': 1,'llave2':'string1'}
