@@ -6,7 +6,10 @@ Información sobre docker:
 
 * https://docs.docker.com/
 
+* [Play with Docker Classroom](https://training.play-with-docker.com/)
+
 
 docker online: (crear una cuenta en [dockerhub](https://hub.docker.com/))
 
-* https://labs.play-with-docker.com/
+* [Play with Docker](https://labs.play-with-docker.com/)
+
