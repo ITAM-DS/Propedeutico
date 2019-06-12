@@ -44,6 +44,19 @@ dir_montar=/home/<miuser>/<midirectorio>
 docker run -v $dir_montar:/datos --name <micontenedor> -dit ubuntu bash
 ```
 
+### Run 3
+
+Crear contenedor con nombre `micontenedor` a partir de imagen de `ubuntu` (latest) que ejecute el comando `bash` en modo de `daemon`, se monte un volumen y se use el puerto dentro del contenedor `puerto contenedor` mapeado al puerto de la máquina `puerto máquina`:
+
+Primero elegimos el directorio que queremos montar, por ejemplo: `/home/<miuser>/<midirectorio>` y elegimos el nombre al que estará mapeado por ejemplo `/datos` 
+
+(no se deben colocar los símbolos `<`, `>`)
+
+```
+dir_montar=/home/<miuser>/<midirectorio>
+docker run -v $dir_montar:/datos --name <micontenedor> -p <puerto máquina>:<puerto contenedor> -dit ubuntu bash
+```
+
 ### Exec (una vez ejecutado run anterior)
 
 Entrar al contenedor `micontenedor`: (no se deben colocar los símbolos `<`, `>`)
