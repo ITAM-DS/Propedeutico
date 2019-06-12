@@ -25,7 +25,7 @@ docker rmi -f <imagen>
 
 ### Run 1
 
-Crear contenedor con nombre `micontenedor` a partir de imagen de ubuntu que ejecute el comando `bash` en modo de `daemon`:
+Crear contenedor con nombre `micontenedor` a partir de imagen de `ubuntu` (latest) que ejecute el comando `bash` en modo de `daemon`:
 
 ```
 docker run --name micontenedor -dit ubuntu bash
@@ -33,7 +33,7 @@ docker run --name micontenedor -dit ubuntu bash
 
 ### Run 2
 
-Crear contenedor con nombre `micontenedor` a partir de imagen de ubuntu que ejecute el comando `bash` en modo de `daemon` y se monte un volumen:
+Crear contenedor con nombre `micontenedor` a partir de imagen de `ubuntu` (latest) que ejecute el comando `bash` en modo de `daemon` y se monte un volumen:
 
 Primero elegimos el directorio que queremos montar, por ejemplo: `/home/<miuser>/<midirectorio>` y elegimos el nombre al que estará mapeado por ejemplo `/datos`
 
