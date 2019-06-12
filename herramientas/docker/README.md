@@ -15,3 +15,7 @@ docker online: (crear una cuenta en [dockerhub](https://hub.docker.com/))
 
 * [Play with Docker](https://labs.play-with-docker.com/)
 
+Alternativa para uso de docker no desde la línea de comandos:
+
+* https://www.portainer.io/
+
