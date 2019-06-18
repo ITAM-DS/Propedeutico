@@ -12,6 +12,8 @@ Referencias:
 
 * [Numpy](http://www.numpy.org/).
 
+* [numpy-for-matlab-users](https://www.numpy.org/devdocs/user/numpy-for-matlab-users.html)
+
 * [Numpy and Scipy Documentation](https://docs.scipy.org/doc/). En la liga anterior también encontramos: [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/), [Numpy Reference Guide](https://docs.scipy.org/doc/numpy/reference/) y [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html).
 
 * Para encontrar convenciones que se han realizado en Python ver [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
