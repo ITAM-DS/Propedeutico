@@ -11,3 +11,8 @@ El temario del propedéutico lo obtienen dando click [aquí](https://www.dropbox
 
 
 
+AGENDA DE TRABAJO:
+
+
+|semana 1! introducción a Python|
+|semana 2| diferenciación, integración, álgebra lineal|
