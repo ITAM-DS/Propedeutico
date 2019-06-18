@@ -17,7 +17,4 @@ AGENDA DE TRABAJO:
 | :------------- :|:-------------:|
 | semana 1      | introducción a Python | 
 | semana 2      | diferenciación, integración, álgebra lineal      |
-| semana 3 | aplicaciones de álgebra lineal, introducción a R      |
-|semana 4| continuación introducción a R, probabilidad y estadística|
-|semana 5|aplicaciones de estadística: regresión lineal, componentes principales|
-|15 julio| entrega/exposición de práctica final|
+
