@@ -13,6 +13,8 @@ El temario del propedéutico lo obtienen dando click [aquí](https://www.dropbox
 
 AGENDA DE TRABAJO:
 
-
-|semana 1! introducción a Python|
-|semana 2| diferenciación, integración, álgebra lineal|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
