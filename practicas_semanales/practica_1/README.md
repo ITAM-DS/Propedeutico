@@ -1,7 +1,7 @@
 # Práctica semanal 1
 
 
-* Core python
+*  Realizar ejercicios hechos por su cuenta de acuerdo a: [Core python](Propedeutico/Python/clases/1_introduccion/2_core_python.ipynb)
 
 * Módulos
 
