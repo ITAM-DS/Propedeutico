@@ -43,7 +43,7 @@ primeras 2 hrs: [Propedeutico/Python/clases/1_introduccion/3_funciones_y_modulos
 
 primeras 2 hrs: finalizamos [Propedeutico/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb).
 
-última hr: explicación de docker y uso del mismo con la imagen creada en dockerhub para el propedéutico parte de python: [Propedeutico/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb]. Realización de los ejercicios en [Propedeutico/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y  en [Propedeutico/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb).
+última hr: explicación de docker y uso del mismo con la imagen creada en dockerhub para el propedéutico parte de python: [Propedeutico/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb). Realización de los ejercicios en [Propedeutico/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y  en [Propedeutico/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb).
 
 [Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_1)
 
