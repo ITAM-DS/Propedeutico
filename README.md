@@ -53,7 +53,7 @@ primeras 2 hrs: finalizamos [Propedeutico/Python/clases/1_introduccion/3_funcion
 
 Revisamos [Propedeutico/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb) hasta diferenciación numérica.
 
-Discusión sobre objetivos del curso propedéutico, estructura y organización de las clases, realización de las prácticas semanales, [rants](https://www.google.com/search?hl=es&q=rant)/comentarios de estudiante sobre herramientas no conocidas: docker y python.
+Discusión sobre objetivos del curso propedéutico, estructura y organización de las clases, realización de las prácticas semanales, comentarios de estudiante sobre herramientas no conocidas: docker y python.
 
 
 ## Clase 5
