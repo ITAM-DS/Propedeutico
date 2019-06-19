@@ -9,7 +9,7 @@ Enlistar imágenes que tengo en mi sistema:
 docker images
 ```
 
-Descargar imágenes almacenadas en dockerhub: (no se deben colocar los símbolos `<`, `>`)
+Descargar imágenes almacenadas en [dockerhub](https://hub.docker.com/): (no se deben colocar los símbolos `<`, `>`)
 
 ```
 docker pull <imagen a descargar>:<version de imagen>
@@ -78,6 +78,40 @@ Entrar al contenedor `micontenedor` con un user `miuser` creado: (no se deben co
 docker exec -u=<miuser> -it <micontenedor> /bin/bash
 ```
 
+## ps, start, stop y rm
+
+Al ejecutar un `docker run ...` se puede enlistar aquellos contenedores que están corriendo con:
+
+
+```
+docker ps
+```
+
+y este comando tiene la bandera `-a` para enlistar aquellos contenedores que están corriendo o están detenidos:
+
+
+```
+docker ps -a
+```
+
+Si algún contenedor está detenido y lo queremos iniciar (recordando que previamente hicimos una ejecución de `docker run`) realizamos: (no se deben colocar los símbolos `<`, `>`)
+
+```
+docker start <micontenedor>
+```
+
+Si por el contrario queremos detener un contenedor:
+
+```
+docker stop <micontenedor>
+```
+
+y si ya nunca más lo vamos a usar lo borramos con:
+
+
+```
+docker rm <micontenedor>
+```
 
 
 
