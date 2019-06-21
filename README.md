@@ -61,5 +61,11 @@ Discusión sobre objetivos del curso propedéutico, estructura y organización d
 
 Finalizamos [Propedeutico/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb).
 
+## Clase 6
+19 de junio
+
+Revisamos y finalizamos [
+Propedeutico/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [Propedeutico/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
+
 
 
