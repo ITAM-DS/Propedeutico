@@ -16,6 +16,8 @@ Referencias:
 
 * [Numpy and Scipy Documentation](https://docs.scipy.org/doc/). En la liga anterior también encontramos: [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/), [Numpy Reference Guide](https://docs.scipy.org/doc/numpy/reference/) y [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html).
 
+* [Matplotlib][https://matplotlib.org/] y [matplotlib.pyplot tutorial](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
+
 * Para encontrar convenciones que se han realizado en Python ver [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
 
 Python3 online:
