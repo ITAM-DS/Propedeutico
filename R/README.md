@@ -11,10 +11,11 @@ Para uso con docker + R:
 
 Cheatsheets:
 
-* [Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
+* [Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) y más en [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/).
 
-* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+Libro de referencia para su maestría:
 
+* [R for Data Science](https://r4ds.had.co.nz/)
 
 Algunos workshops:
 
