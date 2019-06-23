@@ -1,7 +1,7 @@
 
 Lo que se necesita para correr los ejemplos del propedéutico es:
 
-* Tener docker instalado en sus sistemas (ver About Docker CE).
+* Tener docker instalado en sus sistemas (ver [About Docker CE](https://docs.docker.com/install/)).
 * Elegir un directorio que se montará en el contenedor (la ruta al directorio de su elección **no** debe tener espacios o caracteres como acentos, si desean separar las palabras usen guiones).
 * Ejecutar lo siguiente:
 
