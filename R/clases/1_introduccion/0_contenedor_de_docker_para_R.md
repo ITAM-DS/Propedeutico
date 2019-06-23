@@ -18,6 +18,13 @@ y vamos a un browser y colocamos:
 localhost:8787
 ```
 
+Si quieren desde la terminal entrar a este contenedor sin Rstudio ejecuten en la terminal (una vez ejecutado el `run` anterior):
+
+
+```
+docker exec -it -u=rstudio propedeutico-r bash
+```
+
 **Obs:** la imagen `palmoreck/prope_r:v1` tiene `ggplot2` instalado. Alternativamente si desean tener una imagen de docker limpia usen:
 
 ```
