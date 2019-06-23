@@ -1,5 +1,7 @@
 Lenguaje de programación R
 
+* [What is R?](https://www.r-project.org/about.html)
+
 Referencias:
 
 
