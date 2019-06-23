@@ -19,3 +19,6 @@ Cheatsheets:
 Algunos workshops:
 
 * [Tidy Data Science Workshop](https://tidy-ds.wjakethompson.com/)
+
+
+En el directorio [clases](clases/) se encuentra información general y clases de probabilidad y estadística para el propedéutico.
