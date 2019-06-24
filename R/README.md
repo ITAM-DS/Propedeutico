@@ -8,6 +8,8 @@ Referencias:
 
 * E. B. Zamudio, 2010, [R: Un lenguaje para análisis de datos y graficación](http://allman.rhon.itam.mx/~ebarrios/docs/porqueR.pdf). 
 
+* [The Comprehensive R Archive Network: CRAN](https://cran.r-project.org/)
+
 Para uso con docker + R:
 
 * [Rocker](https://www.rocker-project.org/)
