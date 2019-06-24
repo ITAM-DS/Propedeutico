@@ -4,3 +4,5 @@
 
 * [practica 2](practica_2)
 
+* [practica 3](practica_3)
+
