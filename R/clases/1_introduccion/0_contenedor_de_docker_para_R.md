@@ -11,7 +11,7 @@ Lo que se necesita para correr los ejemplos del propedéutico es:
 ```
 dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
 
-docker run -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name propedeutico-r -e PASSWORD=miprope palmoreck/prope_r:v1
+docker run -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name micontenedor-r -e PASSWORD=miprope palmoreck/prope_r:v1
 ```
 
 y vamos a un browser y colocamos:
@@ -31,7 +31,7 @@ docker exec -it -u=rstudio propedeutico-r bash
 
 ```
 dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
-docker run -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name propedeutico-r-limpio -e PASSWORD=miprope rocker/rstudio
+docker run -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name micontenedor-r-limpio -e PASSWORD=miprope rocker/rstudio
 ```
 
 o pueden elegir la imagen de su preferencia aquí:
@@ -44,13 +44,13 @@ También si les gusta [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/)
 
 ```
 dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
-docker run -v $dir_montar:/datos --name micontenedor -dit -p 8889:8888 palmoreck/prope_jupyterlab_python_r:v1 bash
+docker run -v $dir_montar:/datos --name micontenedor-jupyterlab-python-r -dit -p 8889:8888 palmoreck/prope_jupyterlab_python_r:v1 bash
 ```
 
 Entramos al contenedor con:
 
 ```
-docker exec -it -u=miuser micontenedor bash
+docker exec -it -u=miuser micontenedor-jupyterlab-python-r bash
 ```
 
 Una vez dentro trabajamos en el ambiente propedeutico:
