@@ -44,7 +44,7 @@ También si les gusta [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/)
 
 ```
 dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
-docker run -v $dir_montar:/datos --name micontenedor -dit -p 8889:8888 palmoreck/prope_jupyter_python_r:v1 bash
+docker run -v $dir_montar:/datos --name micontenedor -dit -p 8889:8888 palmoreck/prope_jupyterlab_python_r:v1 bash
 ```
 
 Entramos al contenedor con:
