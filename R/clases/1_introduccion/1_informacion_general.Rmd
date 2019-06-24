@@ -7,24 +7,7 @@ output: rmarkdown::github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Información general
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+R es un lenguaje de programación basado en *S* el cual es un lenguaje y un ambiente de programación interactiva para el análisis de datos y graficación desarrollado por los *Bell laboratories* por Rick Becker, John Chambers y Allan Wilks. Dos dialectos del lenguaje S existen: *R* una implementación *open source* disponible en [r-project](http://www.r-project.org) y *S-PLUS*. R es el resultado de esfuerzos de todo el mundo y fue escrito inicialmente por Robert Gentleman y Ross Ihaka del departamento de Estadística de la Universidad de Auckland
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-## Another title
