@@ -6,7 +6,7 @@ Resolver ejercicios de:
 
 * [4_SVD_y_reconstruccion_de_imagenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
-y Resuelve :
+y resuelve :
 
 1) Ajusta por mínimos cuadrados dos modelos de la forma: 
 
