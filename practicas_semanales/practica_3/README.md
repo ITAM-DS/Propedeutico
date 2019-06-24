@@ -1,10 +1,10 @@
 Resolver ejercicios de:
 
-* [2_interpolacion](Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+* [2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
 
-* [3_minimos_cuadrados](Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
+* [3_minimos_cuadrados](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
 
-* [4_SVD_y_reconstruccion_de_imagenes](Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+* [4_SVD_y_reconstruccion_de_imagenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
 y Resuelve :
 
