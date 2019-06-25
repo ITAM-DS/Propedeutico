@@ -6,7 +6,10 @@ Referencias:
 
 * [The R Manuals](https://cran.r-project.org/manuals.html)
 
+* [R infrastructure](https://github.com/r-lib/devtools)
+
 * [The Comprehensive R Archive Network: CRAN](https://cran.r-project.org/)
+
 
 Para uso con docker + R:
 
@@ -21,6 +24,8 @@ Libros de referencias para su maestría:
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
 * [R packages](http://r-pkgs.had.co.nz/)
+
+y tales libros realizados por [Hadley Wickham](https://github.com/hadley).
 
 Algunos workshops:
 
