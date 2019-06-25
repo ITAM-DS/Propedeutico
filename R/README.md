@@ -4,11 +4,12 @@ Lenguaje de programación R
 
 Referencias:
 
-* [R-intro](https://cran.r-project.org/doc/manuals/R-intro.html)
+* [The R Manuals](https://cran.r-project.org/manuals.html)
 
-* E. B. Zamudio, 2010, [R: Un lenguaje para análisis de datos y graficación](http://allman.rhon.itam.mx/~ebarrios/docs/porqueR.pdf). 
+* [R infrastructure](https://github.com/r-lib/devtools)
 
 * [The Comprehensive R Archive Network: CRAN](https://cran.r-project.org/)
+
 
 Para uso con docker + R:
 
@@ -18,13 +19,24 @@ Cheatsheets:
 
 * [Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) y más en [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/).
 
-Libro de referencia para su maestría:
+Libros de referencias para su maestría:
 
 * [R for Data Science](https://r4ds.had.co.nz/)
+* [Advanced R](http://adv-r.had.co.nz/)
+* [R packages](http://r-pkgs.had.co.nz/)
+
+y tales libros realizados por [Hadley Wickham](https://github.com/hadley).
 
 Algunos workshops:
 
 * [Tidy Data Science Workshop](https://tidy-ds.wjakethompson.com/)
+
+Algunas páginas hechas por la comunidad sobre R:
+
+* http://www.r-bloggers.com/
+
+* https://rpubs.com/
+
 
 R online:
 
