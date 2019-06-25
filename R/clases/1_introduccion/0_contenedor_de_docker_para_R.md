@@ -78,6 +78,8 @@ y vamos a un browser y colocamos:
 localhost:8889
 ```
 
+**Comentario (sólo como información general): la imagen de jupyterlab + R y python3 utiliza el kernel [IRkernel](https://github.com/IRkernel/IRkernel)**
+
 ## Referencia para comandos básicos de docker
 
 * [Comandos de docker para propedéutico](https://github.com/ITAM-DS/Propedeutico/blob/master/herramientas/docker/comandos.md)
