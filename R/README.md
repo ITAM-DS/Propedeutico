@@ -4,7 +4,7 @@ Lenguaje de programación R
 
 Referencias:
 
-* [R-intro](https://cran.r-project.org/doc/manuals/R-intro.html)
+* [The R Manuals](https://cran.r-project.org/manuals.html)
 
 * E. B. Zamudio, 2010, [R: Un lenguaje para análisis de datos y graficación](http://allman.rhon.itam.mx/~ebarrios/docs/porqueR.pdf). 
 
