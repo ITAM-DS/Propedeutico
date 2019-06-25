@@ -8,10 +8,13 @@ Lo que se necesita para correr los ejemplos del propedéutico es:
 * Ejecutar lo siguiente:
 
 
-## Imagen y contenedor de docker para Rstudio
+## Contenedor de docker para Rstudio
+
+Modificar la variable en bash `dir_montar` de acuerdo al caso de cada persona.
 
 ```
-dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
+dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar, por ejemplo:
+                                        #dir_montar=/Users/erick/midirectorio.
 
 docker run -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name micontenedor-r -e PASSWORD=miprope palmoreck/prope_r:v1
 ```
