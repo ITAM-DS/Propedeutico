@@ -69,7 +69,7 @@ Si deseamos tener jupyterlab de forma local ejecutamos:
 ```
 cd /
 
-jupyter lab --ip=0.0.0.0 --no-browser --allow-root &
+jupyter lab --ip=0.0.0.0 --no-browser &
 ```
 
 y vamos a un browser y colocamos:
