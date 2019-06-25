@@ -1,5 +1,5 @@
 
-# Imagen de docker
+# Contenedor de docker para Rstudio y Jupyterlab para Python y R
 
 Lo que se necesita para correr los ejemplos del propedéutico es:
 
@@ -7,6 +7,8 @@ Lo que se necesita para correr los ejemplos del propedéutico es:
 * Elegir un directorio que se montará en el contenedor (la ruta al directorio de su elección **no** debe tener espacios o caracteres como acentos, si desean separar las palabras usen guiones).
 * Ejecutar lo siguiente:
 
+
+## Imagen y contenedor de docker para Rstudio
 
 ```
 dir_montar=<ruta completa a directorio> #aquí colocar la ruta al directorio a montar.
@@ -72,3 +74,7 @@ y vamos a un browser y colocamos:
 ```
 localhost:8889
 ```
+
+## Referencia para comandos básicos de docker
+
+* [Comandos de docker para propedéutico](https://github.com/ITAM-DS/Propedeutico/blob/master/herramientas/docker/comandos.md)
