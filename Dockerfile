@@ -1,8 +1,9 @@
 FROM palmoreck/prope_jupyterlab_python_r:v1
 
-RUN workon propedeutico
 
 ARG NB_USER=miuser
+
+RUN workon propedeutico
 
 ARG NB_UID=1000
 
