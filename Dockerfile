@@ -1,4 +1,4 @@
-FROM palmoreck/prope_python:v1
+FROM palmoreck/prope_jupyterlab_python_r:v1
 
 ARG NB_USER=miuser
 
@@ -13,5 +13,3 @@ USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
-
-ENTRYPOINT ["workon propedeutico"]
