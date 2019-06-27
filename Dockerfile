@@ -1,6 +1,6 @@
 FROM palmoreck/prope_jupyterlab_python_r:v1
 
-RUN pip install --no-cache-dir notebook
+RUN workon propedeutico
 
 ARG NB_USER=miuser
 
