@@ -1,7 +1,5 @@
 FROM palmoreck/prope_python:v1
 
-ENV HOME=/tmp
-
 ARG NB_USER=miuser
 
 ARG NB_UID=1000
