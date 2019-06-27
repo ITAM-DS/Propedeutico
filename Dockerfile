@@ -16,4 +16,4 @@ RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
 
-CMD workon propedeutico
+ENTRYPOINT ["workon propedeutico"]
