@@ -68,4 +68,23 @@ Revisamos y finalizamos [
 Propedeutico/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [Propedeutico/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
 
+## Clase 7
 
+24 de junio
+
+Repaso de [Propedeutico/Python/clases/3_algebra_lineal/
+0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [Propedeutico/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb). Revisión de [Propedeutico/Python/clases/3_algebra_lineal/2_interpolacion.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+Configuración de users y alarmas en AWS de acuerdo a: [1.1.Configuracion de servicios basicos para uso de AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.1.Configuracion-de-servicios-basicos-para-uso-de-AWS)
+
+
+## Clase 8
+
+25 de junio
+
+Revisión de [Propedeutico/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb) y configuración de vpc, security groups y creación de key-pair de acuredo a: [1.1.Configuracion de servicios basicos para uso de AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.1.Configuracion-de-servicios-basicos-para-uso-de-AWS)
+
+## Clase 9
+
+26 de junio
+
+Revisión de [Propedeutico/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb) e inicio de programación en R de acuerdo a: [Propedeutico/R/clases/1_introduccion/1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
