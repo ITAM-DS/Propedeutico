@@ -1,8 +1,6 @@
 # Propedeutico
 Propedéutico de la MCD en el ITAM
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITAM-DS/Propedeutico/master)
-
 En la carpeta [Python](/Python) encuentran temas del cálculo numérico en Python3.
 
 En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R.
