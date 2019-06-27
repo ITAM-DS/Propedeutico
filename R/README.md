@@ -10,6 +10,7 @@ Referencias:
 
 * [The Comprehensive R Archive Network: CRAN](https://cran.r-project.org/)
 
+* [CRAN Task Views](https://cran.r-project.org/web/views/) ... "aim to provide some guidance which packages on CRAN are relevant for tasks related to a certain topic.."
 
 Para uso con docker + R:
 
