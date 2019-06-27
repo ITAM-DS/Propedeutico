@@ -1,5 +1,7 @@
 FROM palmoreck/prope_jupyterlab_python_r:v1
 
+RUN pip install --no-cache-dir notebook
+
 ARG NB_USER=miuser
 
 ARG NB_UID=1000
@@ -13,4 +15,3 @@ USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
-RUN pip install --no-cache-dir notebook
