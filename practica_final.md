@@ -37,8 +37,8 @@ Se presenta el análisis realizado en formato pdf como documento o presentación
 
 # ¿Cuando?
 
-lunes 15 de julio se presenta con duración máxima entre 10 y 12 min.
+lunes 15 de julio se presenta con duración máxima entre 10 y 12 min por cada estudiante.
 
-# ¿% de la calificación
+# ¿% de la calificación?
 
 30 % de acuerdo a lo presentado el primer día del curso.
