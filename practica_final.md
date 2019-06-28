@@ -31,7 +31,7 @@ Debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 |000191459|Python|
 |000191471|R|
 
-Opcionalmente se sugiere usar Docker, Github, AWS y bash.
+Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
 Se presenta el análisis realizado en formato pdf como documento o presentación.
 
