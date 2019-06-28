@@ -6,7 +6,7 @@ Cada estudiante elige un tema aplicado de su interés para su estudio, investiga
 
 El tema elegido debe estar relacionado con alguno de los temas vistos en el curso: cálculo diferencial e integral, álgebra lineal, probabilidad y estadística (como mínimo un tema debe considerarse).
 
-Debe usar forzosamente python ó R de acuerdo a la asignación siguiente:
+Debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
 |clave_unica|lenguaje|	
 |-----------|--------|
@@ -31,14 +31,14 @@ Debe usar forzosamente python ó R de acuerdo a la asignación siguiente:
 |000191459|Python|
 |000191471|R|
 
-Opcionalmente se sugiere usar docker, github, AWS y bash.
+Opcionalmente se sugiere usar Docker, Github, AWS y bash.
 
 Se presenta el análisis realizado en formato pdf como documento o presentación.
 
 # ¿Cuando?
 
-lunes 15 de julio se presenta con duración máxima entre 10 y 12 min por cada estudiante.
+Lunes 15 de julio se presenta con duración máxima entre 10 y 12 min por cada estudiante.
 
 # ¿% de la calificación?
 
-30 % de acuerdo a lo presentado el primer día del curso.
+30% de acuerdo a lo presentado el primer día del curso.
