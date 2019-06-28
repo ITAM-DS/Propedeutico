@@ -43,7 +43,9 @@ o pueden elegir la imagen de su preferencia aquí:
 
 [rocker-org/rocker](https://github.com/rocker-org/rocker)
 
-## Jupyterlab + R y python3
+## Jupyterlab + R y python3 
+
+(si eligen esta opción la instalación de paquetes de R se debe hacer vía terminal: entrar al contenedor con `exec` y luego `R` y usar `install.packages`)
 
 También si les gusta [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) pueden descargar la imagen de docker para uso de `python3` y `R` desde `jupyterlab` ejecutando:
 
