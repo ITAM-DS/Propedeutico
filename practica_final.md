@@ -1,10 +1,10 @@
 # Descripción
 
-Cada estudiante elige un tema aplicado de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
+Cada estudiante elige un tema aplicado y uso de un paquete de Python o R de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
 
 # Características
 
-El tema elegido debe estar relacionado con alguno de los temas vistos en el curso: cálculo diferencial e integral, álgebra lineal, probabilidad y estadística (como mínimo un tema debe considerarse).
+El tema y paquete de Python o R elegidos deben estar relacionados con alguno de los temas vistos en el curso: cálculo diferencial e integral, álgebra lineal, probabilidad y estadística (como mínimo un tema debe considerarse).
 
 El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
@@ -43,7 +43,7 @@ Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un
 
 30% de acuerdo a lo presentado el primer día del curso dividido en:
 
-* 10% por trabajo realizado (investigación, búsqueda de referencias, documentación y realización del código)
+* 10% por trabajo realizado (investigación del tema y paquete, búsqueda de referencias, documentación y realización del código)
 
 * 15% uso de herramientas (uso de Python, R y otras herramientas. Principalmente se evalúa Python y R).
 
