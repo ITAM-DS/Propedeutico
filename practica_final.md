@@ -33,7 +33,7 @@ Debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
-Se presenta el análisis realizado en formato pdf como documento o presentación.
+Se presenta el análisis realizado en formato de documento o presentación.
 
 # ¿Cuando?
 
