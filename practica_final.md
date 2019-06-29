@@ -37,6 +37,8 @@ Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
 Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un formato de documento o presentación con duración máxima entre 10 y 12 min por cada estudiante.
 
+**Nota:** el lunes 15 de julio es el día propuesto desde el inicio del curso pero revisamos cómo vamos en entregas de sus prácticas semanales y podría moverse pero no más allá del miércoles 17 de julio.
+
 # ¿% de la calificación?
 
 30% de acuerdo a lo presentado el primer día del curso dividido en:
