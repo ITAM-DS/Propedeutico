@@ -41,6 +41,8 @@ Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un
 
 30% de acuerdo a lo presentado el primer día del curso dividido en:
 
-10% por trabajo realizado (investigación, búsqueda de referencias, documentación y realización del código)
-15% uso de herramientas (uso de Python, R y otras herramientas. Principalmente se evalúa Python y R).
-5% exposición (claridad en presentación y conocimiento del tema investigado). 
+* 10% por trabajo realizado (investigación, búsqueda de referencias, documentación y realización del código)
+
+* 15% uso de herramientas (uso de Python, R y otras herramientas. Principalmente se evalúa Python y R).
+
+* 5% exposición (claridad en presentación y conocimiento del tema investigado). 
