@@ -1,6 +1,10 @@
+# Objetivo
+
+Que l@s estudiantes conozcan la amplia gama de paquetes y la flexibilidad para la resolución de problemas que proporcionan Python y R en las diferentes áreas de conocimiento revisadas en el curso a través de su uso.
+
 # Descripción
 
-Cada estudiante elige un tema aplicado y uso de un paquete de Python o R de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
+Cada estudiante elige un tema aplicado y un paquete de Python o R de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
 
 # Características
 
