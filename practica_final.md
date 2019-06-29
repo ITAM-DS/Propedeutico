@@ -1,6 +1,6 @@
 # Descripción
 
-Cada estudiante elige un tema aplicado de su interés para su estudio, investigación, análisis y presentación en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
+Cada estudiante elige un tema aplicado de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
 
 # Características
 
