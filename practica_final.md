@@ -33,11 +33,9 @@ Debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
-Se presenta el análisis realizado en formato de documento o presentación.
-
 # ¿Cuando?
 
-Lunes 15 de julio se presenta con duración máxima entre 10 y 12 min por cada estudiante.
+Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un formato de documento o presentación con duración máxima entre 10 y 12 min por cada estudiante.
 
 # ¿% de la calificación?
 
