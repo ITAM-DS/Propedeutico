@@ -6,7 +6,7 @@ Cada estudiante elige un tema aplicado de su interés para su estudio, investiga
 
 El tema elegido debe estar relacionado con alguno de los temas vistos en el curso: cálculo diferencial e integral, álgebra lineal, probabilidad y estadística (como mínimo un tema debe considerarse).
 
-Debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
+El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
 |clave_unica|lenguaje|	
 |-----------|--------|
@@ -39,4 +39,8 @@ Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un
 
 # ¿% de la calificación?
 
-30% de acuerdo a lo presentado el primer día del curso.
+30% de acuerdo a lo presentado el primer día del curso dividido en:
+
+10% por trabajo realizado (investigación, búsqueda de referencias, documentación y realización del código)
+15% uso de herramientas (uso de Python, R y otras herramientas. Principalmente se evalúa Python y R).
+5% exposición (claridad en presentación y conocimiento del tema investigado). 
