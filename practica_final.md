@@ -1,6 +1,6 @@
 # Objetivo
 
-Que l@s estudiantes conozcan la amplia gama de paquetes y la flexibilidad para la resolución de problemas que proporcionan Python y R en las diferentes áreas de conocimiento revisadas en el curso a través de su uso.
+Que l@s estudiantes conozcan la amplia gama de paquetes y la flexibilidad para la resolución de problemas que proporcionan Python y R a través de su uso en las diferentes áreas de conocimiento revisadas en el curso.
 
 # Descripción
 
