@@ -4,7 +4,7 @@ Que l@s estudiantes conozcan la amplia gama de paquetes y la flexibilidad para l
 
 # Descripción
 
-Cada estudiante elige un tema aplicado y un paquete de Python o R de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento.
+Cada estudiante elige un tema aplicado de su interés para su estudio, investigación, análisis y exposición en áreas como Actuaría, Biología, Economía, Estadística, Finanzas, Física, Ingeniería o Matemáticas u otra área de conocimiento. Se asigna el lenguaje por estudiante (Python o R) de acuerdo a la tabla de abajo para resolver un problema en el marco del tema elegido.
 
 # Características
 
