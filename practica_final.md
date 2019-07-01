@@ -52,3 +52,8 @@ Lunes 15 de julio se expone el trabajo realizado el cual se debe encontrar en un
 * 15% uso de herramientas (uso de Python, R y otras herramientas. Principalmente se evalúa Python y R).
 
 * 5% exposición (claridad en presentación y conocimiento del tema investigado). 
+
+
+# Y si ya elegí mi tema y paquete ¿qué debo realizar a continuación?
+
+Enviar correo con título: Práctica final del prope y en el cuerpo del correo su tema, el paquete a usar y el lenguaje.
