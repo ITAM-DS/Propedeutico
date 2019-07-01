@@ -1,4 +1,4 @@
-FROM palmoreck/prope-binder:v1
+FROM palmoreck/prope-binder:v2
 
 
 ARG NB_USER=miuser
