@@ -1,4 +1,4 @@
-FROM palmoreck/prope_jupyterlab_python_r:v1
+FROM palmoreck/prope-binder:v1
 
 
 ARG NB_USER=miuser
