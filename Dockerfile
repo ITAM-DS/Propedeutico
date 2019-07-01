@@ -3,8 +3,6 @@ FROM palmoreck/prope-binder:v1
 
 ARG NB_USER=miuser
 
-RUN workon propedeutico
-
 ARG NB_UID=1000
 
 ENV USER ${NB_USER}
