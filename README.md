@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITAM-DS/Propedeutico/master)
+
 # Propedeutico
 Propedéutico de la MCD en el ITAM
 
