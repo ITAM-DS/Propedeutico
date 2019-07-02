@@ -1,4 +1,4 @@
-Realizar los ejercicios de las notas (en papel excepto en los ejercicios que explícitamente se mencione se hagan en computadora):
+Realizar los ejercicios de las notas (en papel excepto en los ejercicios que explícitamente se mencione se hagan en computadora en la nota correspondiente):
 
 * [Propedeutico/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
 
@@ -11,6 +11,8 @@ Realizar los ejercicios de las notas (en papel excepto en los ejercicios que exp
 * [Propedeutico/R/clases/2_probabilidad/5_independencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/5_independencia.ipynb)
 
 * [Propedeutico/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
+
+* [Propedeutico/R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
 Leer, ejecutar y proponer sus propios ejemplos de uso de lenguaje para los ejemplos (en computadora):
 
