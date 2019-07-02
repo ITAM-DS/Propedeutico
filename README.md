@@ -88,3 +88,11 @@ Revisión de [Propedeutico/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ip
 26 de junio
 
 Revisión de [Propedeutico/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb) e inicio de programación en R de acuerdo a: [Propedeutico/R/clases/1_introduccion/1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+
+## Clase 10
+
+2 de julio
+
+Revisión de [Propedeutico/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb) y [Propedeutico/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
+
