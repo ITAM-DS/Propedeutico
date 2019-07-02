@@ -1,4 +1,4 @@
-Realizar los ejercicios de las notas (en papel excepto en los ejercicios que explícitamente se mencione se hagan en computadoar):
+Realizar los ejercicios de las notas (en papel excepto en los ejercicios que explícitamente se mencione se hagan en computadora):
 
 * [Propedeutico/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
 
