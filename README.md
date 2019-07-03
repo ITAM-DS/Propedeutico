@@ -92,7 +92,12 @@ Revisión de [Propedeutico/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion
 
 ## Clase 10
 
-2 de julio
+1 de julio
 
 Revisión de [Propedeutico/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb) y [Propedeutico/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
 
+## Clase 11 
+
+2 de julio
+
+Revisión de [Propedeutico/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb) y [Propedeutico/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
