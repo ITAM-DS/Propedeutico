@@ -101,3 +101,9 @@ Revisión de [Propedeutico/R/clases/2_probabilidad/1_elementos_de_probabilidad.i
 2 de julio
 
 Revisión de [Propedeutico/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb) y [Propedeutico/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+## Clase 12
+
+3 de julio
+
+Revisión de [Propedeutico/R/clases/2_probabilidad/5_independencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/5_independencia.ipynb), [Propedeutico/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb) e inicio de [Propedeutico/R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) hasta primeros ejemplos de variables aleatorias.
