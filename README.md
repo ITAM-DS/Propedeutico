@@ -45,7 +45,7 @@ primeras 2 hrs: finalizamos [Propedeutico/Python/clases/1_introduccion/3_funcion
 
 última hr: explicación de docker y uso del mismo con la imagen creada en dockerhub para el propedéutico parte de python: [Propedeutico/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb). Realización de los ejercicios en [Propedeutico/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y  en [Propedeutico/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb) y se mostró existencia de jupyter online.
 
-[Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_1)
+### [Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_1)
 
 
 ## Clase 4
@@ -67,7 +67,7 @@ Finalizamos [Propedeutico/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas
 Revisamos y finalizamos [
 Propedeutico/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [Propedeutico/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
-[Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_2)
+### [Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_2)
 
 
 ## Clase 7
@@ -91,7 +91,7 @@ Revisión de [Propedeutico/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ip
 
 Revisión de [Propedeutico/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb) e inicio de programación en R de acuerdo a: [Propedeutico/R/clases/1_introduccion/1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
 
-[Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_3)
+### [Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_3)
 
 
 ## Clase 10
@@ -113,14 +113,14 @@ Revisión de [Propedeutico/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb](ht
 Revisión de [Propedeutico/R/clases/2_probabilidad/5_independencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/5_independencia.ipynb), [Propedeutico/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb) e inicio de [Propedeutico/R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) hasta primeros ejemplos de variables aleatorias.
 
 
-[Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_4)
+### [Práctica semanal](https://github.com/ITAM-DS/Propedeutico/tree/prope-2019-1/practicas_semanales/practica_4)
 
 
 ## Clase 13
 
 8 de julio
 
-Finalizamos [7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) e inicio de [1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb).
+Finalizamos [R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) e inicio de R/clases/3_estadistica/[1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb).
 
 En la última media hora levantamos instancia en la nube de AWS para Rstudio + docker de acuerdo a: [1.2.Instalación de herramientas útiles en AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.2.Instalaci%C3%B3n-de-herramientas-%C3%BAtiles-en-AWS)
 
