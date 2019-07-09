@@ -120,7 +120,7 @@ Revisión de [Propedeutico/R/clases/2_probabilidad/5_independencia.ipynb](https:
 
 8 de julio
 
-Finalizamos [R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) e inicio de R/clases/3_estadistica/[1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb).
+Finalizamos [R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb) e inicio de [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb).
 
 En la última media hora levantamos instancia en la nube de AWS para Rstudio + docker de acuerdo a: [1.2.Instalación de herramientas útiles en AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.2.Instalaci%C3%B3n-de-herramientas-%C3%BAtiles-en-AWS)
 
