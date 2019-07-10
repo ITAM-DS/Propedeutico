@@ -124,3 +124,9 @@ Finalizamos [R/clases/2_probabilidad/7_variables_aleatorias.ipynb](https://githu
 
 En la última media hora levantamos instancia en la nube de AWS para Rstudio + docker de acuerdo a: [1.2.Instalación de herramientas útiles en AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.2.Instalaci%C3%B3n-de-herramientas-%C3%BAtiles-en-AWS)
 
+## Clase 14
+
+9 de julio
+
+Continuamos con [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb) hasta estadísticas descriptivas
+
