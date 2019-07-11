@@ -130,3 +130,8 @@ En la última media hora levantamos instancia en la nube de AWS para Rstudio + d
 
 Continuamos con [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb) hasta estadísticas descriptivas
 
+## Clase 15
+
+10 de julio
+
+Finalizamos [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb) y llegamos hasta distribución de medias muestrales de [R/clases/3_estadistica/2_distribuciones_comunes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb) 
