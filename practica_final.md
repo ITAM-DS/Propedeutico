@@ -31,7 +31,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000191351|Python|*|*|
 |000191401|R|*|*|
 |000191426|Python|*|*|
-|000191430|R|*|*|
+|000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|
 |000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapely|
 |000191471|R|*|*|
 
