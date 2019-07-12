@@ -17,7 +17,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000108353|Python|*|*|lunes|
 |000123972|R|*|*|martes|
 |000130826|Python|*|*|lunes|
-|000137314|R|*|*|martes|
+|000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|*|martes|
 |000141394|Python|*|*|lunes|
 |000148539|R|*|*|lunes|
 |000150237|Python|*|*|martes|
