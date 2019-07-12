@@ -12,28 +12,28 @@ El tema y paquete de Python o R elegidos deben estar relacionados con alguno de 
 
 El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
-|clave_unica|lenguaje| Práctica Final|Paquetes|
-|-----------|--------|---------------|--------|
-|000108353|Python|*|*|
-|000123972|R|*|*|
-|000130826|Python|*|*|
-|000137314|R|*|*|
-|000141394|Python|*|*|
-|000148539|R|*|*|
-|000150237|Python|*|*|
-|000159396|R|*|*|
-|000178095|Python|*|*|
-|000183347|R|*|*|
-|000187825|Python|*|*|
-|000191070|R|*|*|
-|000191294|Python|*|*|
-|000191343|R|*|*|
-|000191351|Python|*|*|
-|000191401|R|*|*|
-|000191426|Python|*|*|
-|000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|
-|000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapely|
-|000191471|R|*|*|
+|clave_unica|lenguaje| Práctica Final|Paquetes|Día|
+|-----------|--------|---------------|--------|----|
+|000108353|Python|*|*|lunes|
+|000123972|R|*|*|martes|
+|000130826|Python|*|*|lunes|
+|000137314|R|*|*|martes|
+|000141394|Python|*|*|lunes|
+|000148539|R|*|*|lunes|
+|000150237|Python|*|*|martes|
+|000159396|R|*|*|martes|
+|000178095|Python|*|*|lunes|
+|000183347|R|*|*|martes|
+|000187825|Python|*|*|martes|
+|000191070|R|*|*|lunes|
+|000191294|Python|*|*|lunes|
+|000191343|R|*|*|martes|
+|000191351|Python|*|*|martes|
+|000191401|R|*|*|lunes|
+|000191426|Python|*|*|martes|
+|000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|martes|
+|000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapely|lunes|
+|000191471|R|*|*|lunes|
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
