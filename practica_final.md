@@ -17,7 +17,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|
 |000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|
 |000130826|Python|estrategias de probabilidad para jugar  en el juego de mesa “Risk.| Numpy, SciPy y math|lunes|
-|000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|vacío|martes|
+|000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|ggplot2, scales, plyr, tidyr|martes|
 |000141394|Python|simulacion montecarlo de utilidad|pandas, numpy, random|martes|
 |000148539|R|análisis descriptivo de datos del videojuego de Pokemon|ggoplot2 y MASS|lunes|
 |000150237|Python|Población Económicamente Activa de México|numpy, matplotlib.pyplot , scipy.interpolate|martes|
@@ -33,7 +33,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000191426|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
 |000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|
 |000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|
-|000191471|R|Análisis Descriptivo de la Movilidad Social en México|vacío|lunes|
+|000191471|R|Análisis Descriptivo de la Movilidad Social en México|haven, markovchain, diagram, shape, ggplot2, MmgraphR, Gmisc, magrittr|lunes|
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
