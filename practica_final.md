@@ -24,13 +24,13 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000159396|R|Analis exploratorio de una base de crédito|Moments, gmodels, vcd y mixtools|martes|
 |000178095|Python|Análisis Exploratorio de Base de Películas|Pandas, Numpy, Seaborn, Matplotlib|lunes
 000183347|R|vacío|vacío|martes|
-|000183347|R|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|
-|000187825|Python|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, ggvis, devtools, tidyverse|martes|
-|000191070|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|
-|000191294|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|
-|000191343|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re
-000191401|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
-|000191351|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
+|000187825|R|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|
+|000191070|Python|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, ggvis, devtools, tidyverse|martes|
+|000191294|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|
+|000191343|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|
+|000191401|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re
+000191351|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
+|000191401|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
 |000191401|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|
 |000191426|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|
 |000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|martes|
