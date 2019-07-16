@@ -29,7 +29,7 @@ vacío|vacío|lunes|
 |000191070|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|
 |000191294|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|
 |000191343|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re
-comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
+000191401|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
 |000191351|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
 |000191401|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|
 |000191426|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|
