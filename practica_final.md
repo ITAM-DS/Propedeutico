@@ -14,26 +14,28 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 
 |clave_unica|lenguaje| Práctica Final|Paquetes|Día|
 |-----------|--------|---------------|--------|----|
-|000108353|Python|*|*|lunes|
-|000123972|R|*|*|martes|
-|000130826|Python|*|*|lunes|
-|000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|*|martes|
-|000141394|Python|*|*|martes|
-|000148539|R|*|*|lunes|
-|000150237|Python|*|*|martes|
-|000159396|R|*|*|martes|
-|000178095|Python|*|*|lunes|
-|000183347|R|*|*|martes|
-|000187825|Python|*|*|martes|
-|000191070|R|*|*|lunes|
-|000191294|Python|*|*|lunes|
-|000191343|R|*|*|martes|
-|000191351|Python|*|*|martes|
-|000191401|R|*|*|lunes|
-|000191426|Python|*|*|martes|
+|000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|
+|000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|
+|000130826|Python|estrategias de probabilidad para jugar  en el juego de mesa “Risk.| Numpy, SciPy y math|lunes|
+|000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|vacío|martes|
+|000141394|Python|simulacion montecarlo de utilidad|pandas, numpy, random|martes|
+|000148539|R|análisis descriptivo de datos del videojuego de Pokemon|ggoplot2 y MASS|lunes|
+|000150237|Python|Población Económicamente Activa de México|numpy, matplotlib.pyplot , scipy.interpolate|martes|
+|000159396|R|Analis exploratorio de una base de crédito|Moments, gmodels, vcd y mixtools|martes|
+|000178095|Python|Análisis Exploratorio de Base de Películas|Pandas, Numpy, Seaborn, Matplotlib
+vacío|vacío|lunes|
+|000183347|R|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|
+|000187825|Python|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, ggvis, devtools, tidyverse|martes|
+|000191070|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|
+|000191294|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|
+|000191343|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re
+comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
+|000191351|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
+|000191401|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|
+|000191426|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|
 |000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|martes|
 |000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapely|lunes|
-|000191471|R|*|*|lunes|
+|000191471|R|Análisis Descriptivo de la Movilidad Social en México|vacío|lunes|
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
