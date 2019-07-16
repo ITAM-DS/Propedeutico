@@ -135,3 +135,12 @@ Continuamos con [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.i
 10 de julio
 
 Finalizamos [R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb) y llegamos hasta distribución de medias muestrales de [R/clases/3_estadistica/2_distribuciones_comunes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb) 
+
+
+## Clase 16
+
+15 de julio
+
+Iniciamos con presentaciones de prácticas finales de acuerdo a: [practica_final.md](https://github.com/ITAM-DS/Propedeutico/blob/prope-2019-1/practica_final.md).
+
+Revisamos: [R/clases/3_estadistica/3_elementos_de_inferencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb).
