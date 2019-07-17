@@ -14,7 +14,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 
 |clave_unica|lenguaje| Práctica Final|Paquetes|Día|liga|
 |-----------|--------|---------------|--------|----|---|
-|000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|*|
+|000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|[liga](https://github.com/Pilo1961/Prope_itam_ds/tree/master/Proyecto_Final)|
 |000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|[liga](https://github.com/123972/Propedeutico_Estadistica_MCD/blob/master/Practica_Final_prediccionEnigh.ipynb)|
 |000130826|Python|estrategias de probabilidad para jugar  en el juego de mesa “Risk.| Numpy, SciPy y math|lunes|[liga](https://www.dropbox.com/sh/p7ys93al4aod04y/AABrFFuZO4NoK1gNABSpFcyCa?dl=0)|
 |000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|ggplot2, scales, plyr, tidyr|martes|*|
@@ -25,15 +25,15 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000178095|Python|Análisis Exploratorio de Base de Películas|Pandas, Numpy, Seaborn, Matplotlib|lunes|[liga](https://github.com/DorelyMS/MCDProyectoFinalPrope)|
 |000183347|R|Principales Causas de Mortalidad en la Población Mexicana|vacío|martes|[liga](https://www.dropbox.com/sh/aoy9fxwmnhpl68e/AACqQyt3nFVCk2UV-nwVTIC6a?dl=0)|
 |000187825|R|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|[liga](https://github.com/ronmoy007/ITAM_DS_Prope/tree/master/ProyectoFinal)|
-|000191070|Python|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, ggvis, devtools, tidyverse|martes|
-|000191294|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|
-|000191343|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|
-|000191351|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re
-000191401|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|
-|000191426|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|
-|000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|
-|000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|
-|000191471|R|Análisis Descriptivo de la Movilidad Social en México|haven, markovchain, diagram, shape, ggplot2, MmgraphR, Gmisc, magrittr|lunes|
+|000191070|Python|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, ggvis, devtools, tidyverse|martes|[liga](https://github.com/C1587S/MS_ITAM-DS/tree/master/Propedeutico/Entregas/Entrega_Final)
+|000191294|R|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|*|
+|000191343|Python|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2|lunes|[liga](https://github.com/dvilla88/practica-final-prope)|
+|000191351|R|Análisis de sentimiento con aplicaciones financieras.|matplotlib, numpy, sqlite3, pandas, re|*|
+|000191401|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|[liga](https://www.dropbox.com/sh/rpq7u6oghx825if/AABViE87sGypmyV0INLv_Uk4a?dl=0)
+|000191426|Python|Construcción de curva de descuento gubernamental a corto plazo|Pandas, scipy.interpolate, numpy, matplotlib y seaborn|martes|*|
+|000191430|R|análisis de texto|tidytext, ggplot, dplyr y gutenbergr|lunes|*|
+|000191459|Python|análisis descriptivo de incidencia delictiva en la Ciudad de México|numpy, matplotlib, pandas, geopandas y shapelymartes|[liga](https://github.com/gemathus/analisis-incidencia-delictiva)|
+|000191471|R|Análisis Descriptivo de la Movilidad Social en México|haven, markovchain, diagram, shape, ggplot2, MmgraphR, Gmisc, magrittr|lunes|[liga](https://github.com/dapivei/Practice-MDC/tree/master/Practicas-Semanales/Proyecto%20Final)|
 
 Opcionalmente se sugiere usar Docker, Github, AWS o Bash.
 
