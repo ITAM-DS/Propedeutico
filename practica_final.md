@@ -12,11 +12,11 @@ El tema y paquete de Python o R elegidos deben estar relacionados con alguno de 
 
 El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
-|clave_unica|lenguaje| Práctica Final|Paquetes|Día|
-|-----------|--------|---------------|--------|----|
-|000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|
-|000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|
-|000130826|Python|estrategias de probabilidad para jugar  en el juego de mesa “Risk.| Numpy, SciPy y math|lunes|
+|clave_unica|lenguaje| Práctica Final|Paquetes|Día|Practica_final|
+|-----------|--------|---------------|--------|----|---|
+|000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|*|
+|000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|https://github.com/123972/Propedeutico_Estadistica_MCD/blob/master/Practica_Final_prediccionEnigh.ipynb|
+|000130826|Python|estrategias de probabilidad para jugar  en el juego de mesa “Risk.| Numpy, SciPy y math|lunes|https://www.dropbox.com/sh/p7ys93al4aod04y/AABrFFuZO4NoK1gNABSpFcyCa?dl=0|
 |000137314|R| brecha, entre los turnos matutino y vespertino, en desempeño académico para el nivel medio superior medido por la prueba PLANEA EMS 2016|ggplot2, scales, plyr, tidyr|martes|
 |000141394|Python|simulacion montecarlo de utilidad|pandas, numpy, random|martes|
 |000148539|R|análisis descriptivo de datos del videojuego de Pokemon|ggoplot2 y MASS|lunes|
