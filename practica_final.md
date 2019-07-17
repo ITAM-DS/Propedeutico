@@ -12,7 +12,7 @@ El tema y paquete de Python o R elegidos deben estar relacionados con alguno de 
 
 El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acuerdo a la asignación siguiente:
 
-|clave_unica|lenguaje| Práctica Final|Paquetes|Día|Practica_final|
+|clave_unica|lenguaje| Práctica Final|Paquetes|Día|liga|
 |-----------|--------|---------------|--------|----|---|
 |000108353|Python|análisis de las ecuaciones de Lotka-Volterra que describen la interacción de sistemas que tienen depredadores y presas|numpy.integrate, matplotlib, sympy|lunes|*|
 |000123972|R|Regresión logistica para para predecir diferencias en salarios|tidyverse, readr, e1071, kernlab, ROCR, pROC, corrplot|martes|[liga](https://github.com/123972/Propedeutico_Estadistica_MCD/blob/master/Practica_Final_prediccionEnigh.ipynb)|
