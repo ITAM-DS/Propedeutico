@@ -26,7 +26,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000183347|R|Principales Causas de Mortalidad en la Población Mexicana|vacío|martes|[liga](https://www.dropbox.com/sh/aoy9fxwmnhpl68e/AACqQyt3nFVCk2UV-nwVTIC6a?dl=0)|
 |000187825|Python|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|[liga](https://github.com/ronmoy007/ITAM_DS_Prope/tree/master/ProyectoFinal)|
 |000191070|R|Análisis descriptivo y estimación de modelos lineales e implementación de una interfaz de usuario|shiny, googleVis, devtools, tidyverse, WDI, httpuv, RJSONIO|martes|[liga](https://github.com/C1587S/MS_ITAM-DS/tree/master/Propedeutico/Entregas/Entrega_Final)
-|000191294|Python|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|*|
+|000191294|Python|Comportamiento del precio del aguacate en Estados Unidos (2015-2018)|pandas, scikit-learn, seaborn|lunes|[liga](https://github.com/lauragmz/Practica_Final_Prop_MCD)|
 |000191343|R|Análisis exploratorio de información de Google Play Store Apps|dplyr, ggplot2, lubridate, sqldf|lunes|[liga](https://github.com/dvilla88/practica-final-prope)|
 |000191351|Python|Análisis de sentimiento con aplicaciones financieras.|De Python: matplotlib, numpy, sqlite3, pandas, re. De R: tidytext, dplyr, wordclouds, tidyr|martes|*|
 |000191401|R|comparativa en regresión lineal, polinómica y por bosques aleatorios|randomForest, caTools, stats|martes|[liga](https://www.dropbox.com/sh/rpq7u6oghx825if/AABViE87sGypmyV0INLv_Uk4a?dl=0)
