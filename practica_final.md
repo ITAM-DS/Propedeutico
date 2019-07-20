@@ -21,7 +21,7 @@ El trabajo se realiza en computadora y debe usar forzosamente Python ó R de acu
 |000141394|Python|simulacion montecarlo de utilidad|pandas, numpy, random|martes|[liga](https://github.com/Yalidt/Practicas_Prope/tree/master/PracticaFinal)|
 |000148539|R|análisis descriptivo de datos del videojuego de Pokemon|ggoplot2 y MASS|lunes|[liga](https://www.dropbox.com/sh/qjycvy4ijcbye5k/AAB1Mhxn4mArO-jFIaNc5oTBa?dl=0)|
 |000150237|Python|Población Económicamente Activa de México|numpy, matplotlib.pyplot , scipy.interpolate, pandas, statsmodels|martes|[liga](https://www.dropbox.com/sh/dncwphwersxyvqk/AAAQUAcfNrtqqvxdpo45QTqVa?dl=0)|
-|000159396|R|Analis exploratorio de una base de crédito|Moments, gmodels, vcd y mixtools|martes|(liga)[https://www.dropbox.com/sh/mh6tr998rsv1sle/AACn4Q7RYYOSqqXUEYXseq1La?dl=0]|
+|000159396|R|Analis exploratorio de una base de crédito|Moments, gmodels, vcd y mixtools|martes|[liga](https://www.dropbox.com/sh/mh6tr998rsv1sle/AACn4Q7RYYOSqqXUEYXseq1La?dl=0)|
 |000178095|Python|Análisis Exploratorio de Base de Películas|Pandas, Numpy, Seaborn, Matplotlib|lunes|[liga](https://github.com/DorelyMS/MCDProyectoFinalPrope)|
 |000183347|R|Principales Causas de Mortalidad en la Población Mexicana|vacío|martes|[liga](https://www.dropbox.com/sh/aoy9fxwmnhpl68e/AACqQyt3nFVCk2UV-nwVTIC6a?dl=0)|
 |000187825|Python|Uso de álgebra lineal en criptografía y análisis de difusión de mensajes cifrados|numpy, matplotlib y pandas.|martes|[liga](https://github.com/ronmoy007/ITAM_DS_Prope/tree/master/ProyectoFinal)|
