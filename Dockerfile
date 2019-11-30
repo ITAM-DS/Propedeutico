@@ -1,5 +1,4 @@
-#FROM palmoreck/prope-binder:v3
-FROM palmoreck/jupyterlab_c_kernel:1.1.0
+FROM palmoreck/prope-binder:v3
 
 ARG NB_USER=miuser
 
