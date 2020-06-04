@@ -1,3 +1,5 @@
+### Dar click en el siguiente botón para unirse al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) Se puede hacer el registro con su cuenta de [github](https://github.com/).
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITAM-DS/Propedeutico/master) <--- tenemos un nuevo botón :) al dar click ir a la ruta `/home/jovyan` para encontrar el material de este repo y de una forma interactiva ejecuten los notebooks de jupyter tanto para Python como para R.
 
 # Propedeutico
