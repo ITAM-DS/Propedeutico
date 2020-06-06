@@ -2,7 +2,10 @@
 
 ### Se puede hacer el registro con su cuenta de [github](https://github.com/).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITAM-DS/Propedeutico/master) <--- tenemos un nuevo botón :) al dar click ir a la ruta `/home/jovyan` para encontrar el material de este repo y de una forma interactiva ejecuten los notebooks de jupyter tanto para Python como para R.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- tenemos un nuevo botón :) al dar click de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R.
+
+
+
 
 # Propedeutico
 Propedéutico de la MCD en el ITAM.
