@@ -10,16 +10,19 @@ Este es el repositorio para el Propedéutico de la MCD en el ITAM impartido en l
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- tenemos un nuevo botón :) al dar click de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R.
 
-![Run on Repl.it] <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
+![Run on Repl.it](https://repl.it/badge/badge_logo.svg) <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
 
 
 ## Ramas del repositorio.
 
 En este repositorio se han creado diferentes ramas que pueden ser accesadas como se aprecia en esta imagen:
 
+![imagen_ramas_prope](https://user-images.githubusercontent.com/3290689/83956287-05548100-a822-11ea-8398-12dc2bb8810f.png)
 
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
+
+**Dar click en [liga](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
 
 ## Breve explicación del repositorio en la rama master.
 
