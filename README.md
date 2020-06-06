@@ -1,14 +1,28 @@
+# Propedeutico
+
+Este es el repositorio para el Propedéutico de la MCD en el ITAM impartido en la maestría de ciencia de datos del ITAM por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
+
+### Dar click en [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) para el temario.
+
 ### Dar click en el siguiente botón para unirse al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
 ### Se puede hacer el registro con su cuenta de [github](https://github.com/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- tenemos un nuevo botón :) al dar click de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R.
 
+![Run on Repl.it] <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
 
 
+## Ramas del repositorio.
 
-# Propedeutico
-Propedéutico de la MCD en el ITAM.
+En este repositorio se han creado diferentes ramas que pueden ser accesadas como se aprecia en esta imagen:
+
+
+Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
+
+
+## Breve explicación del repositorio en la rama master.
+
 
 En la carpeta [Python](/Python) encuentran temas del cálculo numérico en Python3.
 
@@ -16,6 +30,6 @@ En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R.
 
 En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/).
 
-El temario del propedéutico lo obtienen dando click [aquí](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing).
+
 
 
