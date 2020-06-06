@@ -10,7 +10,7 @@ Este es el repositorio para el Propedéutico de la MCD en el ITAM impartido en l
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- tenemos un nuevo botón :) al dar click de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R.
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/)] <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
+[![Run on Repl.it](https://repl.it/@palmoreck/)](https://repl.it/@palmoreck/) <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
 
 
 ## Ramas del repositorio.
