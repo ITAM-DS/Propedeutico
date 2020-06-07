@@ -31,7 +31,10 @@ En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- al dar click en este botón, de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R dentro de los directorios de [Python](/Python) y de [R](/R).
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](/Python) y de [R](/R). Tal botón ayuda a escribir códigos de forma colaborativa en el lenguaje de Python3, R y otros. Ver [repl.it](https://repl.it/). Tales códigos están en la organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) que fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education).
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](/Python) y de [R](/R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de Python3, R y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
+
+
+Tales códigos están en la organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) que fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education).
 
 
 
