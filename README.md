@@ -34,7 +34,9 @@ En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker
 [![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](/Python) y de [R](/R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de Python3, R y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
 
 
-Tales códigos están en la organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) que fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education).
+## Organización de github classroom
+
+En la organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education). Esta organización será nuestro *playground* para el curso :)
 
 
 
