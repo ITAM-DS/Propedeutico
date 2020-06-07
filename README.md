@@ -8,11 +8,6 @@ Este es el repositorio para el propedéutico de la MCD en el ITAM impartido por 
 
 ### Se puede hacer el registro con su cuenta de [github](https://github.com/).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- tenemos un nuevo botón :) al dar click de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R.
-
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón ayudará en el aprendizaje para el lenguaje de Python3 y R. Ver [repl.it](https://repl.it/)
-
-
 ## Ramas del repositorio.
 
 En este repositorio se han creado diferentes ramas que pueden ser accesadas como se aprecia en esta imagen:
@@ -26,12 +21,17 @@ Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del 
 
 ## Breve explicación del repositorio en la rama master.
 
+En la carpeta [Python](/Python) encuentran temas del cálculo numérico Python3\*.
 
-En la carpeta [Python](/Python) encuentran temas del cálculo numérico en Python3.
+En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R\*.
 
-En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R.
+En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/) y [git](https://git-scm.com/).
 
-En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/).
+\* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje R, por ejemplo, en tales notebooks).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- al dar click en este botón, de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R dentro de los directorios de [Python](/Python) y de [R](/R).
+
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en [Python](/Python) y en [R](/R) que ayuda a escribir códigos de forma colaborativa para el lenguaje de Python3, R y otros. Ver [repl.it](https://repl.it/)
 
 
 
