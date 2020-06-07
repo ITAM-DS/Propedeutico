@@ -36,7 +36,7 @@ En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker
 
 ## Organización de github classroom
 
-En la organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education). Esta organización será nuestro *playground* para el curso :)
+La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education). Esta organización será nuestro *playground* para el curso :)
 
 
 
