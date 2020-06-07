@@ -1,6 +1,10 @@
 # Propedeutico 
 
-Propedéutico de la MCD en el ITAM  
+Propedéutico de la MCD en el ITAM
+
+[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-Python)](https://repl.it/@palmoreck/repo-for-replit-Python) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2020**)
+
+[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-R)](https://repl.it/@palmoreck/repo-for-replit-R) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2020**)
 
 [Lista de estudiantes]()
 
