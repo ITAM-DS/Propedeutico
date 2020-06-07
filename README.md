@@ -1,6 +1,6 @@
 # Propedeutico
 
-Este es el repositorio para el propedéutico de la MCD en el ITAM impartido en la maestría de ciencia de datos del ITAM por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
+Este es el repositorio para el propedéutico de la MCD en el ITAM impartido por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
 
 ### Dar click en [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) para el temario.
 
