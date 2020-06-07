@@ -1,3 +1,7 @@
+Python3 **Repl.it**:
+
+* [![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/languages/python3)
+
 Lenguaje de programación Python
 
 * [What is Python? Executive Summary](https://www.python.org/doc/essays/blurb/)
@@ -19,10 +23,6 @@ Referencias:
 * [Matplotlib](https://matplotlib.org/) y [matplotlib.pyplot tutorial](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
 
 * Para encontrar convenciones que se han realizado en Python ver [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
-
-Python3 online:
-
-* https://repl.it/languages/python3
 
 Jupyterlab online:
 
