@@ -1,6 +1,6 @@
 Python3 **Repl.it**:
 
-* [![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/languages/python3)
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/languages/python3)
 
 Lenguaje de programación Python
 
