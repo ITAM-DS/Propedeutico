@@ -27,7 +27,7 @@ En la carpeta [Python](/Python) encuentran temas del cálculo numérico Python3\
 
 En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R\*.
 
-En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
+En la carpeta [herramientas](/herramientas) encuentran información de herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
 
 \* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje R, por ejemplo, en tales notebooks).
 
@@ -41,5 +41,16 @@ En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker
 La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso :)
 
 
+## Índice de notas
+
+Cada número contiene información del tema respectivo, dar click en el tema de interés.
+
+**Python**
+
+0. [0_contenedor_de_docker_para_Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
+
+1. 
+
+**R**
 
 
