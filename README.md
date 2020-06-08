@@ -6,9 +6,9 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 
 ### Dar click en [liga2](https://hackmd.io/@palmoreck/Sy2qixj28) para una presentación de introducción al prope.
 
-### Dar click en el siguiente botón para unirse al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+### Dar click en el siguiente botón para unirse\* al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
-### Se puede hacer el registro con su cuenta de [github](https://github.com/).
+\***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
 
 ## Ramas del repositorio.
 
@@ -19,7 +19,7 @@ En este repositorio se han creado diferentes ramas que pueden ser accesadas como
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
 
-**Dar click en [liga3](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
+**Dar click en [prope-2020](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
 
 ## Breve explicación del repositorio en la rama master.
 
@@ -27,7 +27,7 @@ En la carpeta [Python](/Python) encuentran temas del cálculo numérico Python3\
 
 En la carpeta [R](/R) encuentran temas de probabilidad y estadística en R\*.
 
-En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/) y [git](https://git-scm.com/).
+En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
 
 \* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje R, por ejemplo, en tales notebooks).
 
