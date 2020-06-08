@@ -1,8 +1,10 @@
 # Propedeutico
 
-Este es el repositorio para el propedéutico de la MCD en el ITAM impartido por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
+Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM impartido por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
 
 ### Dar click en [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) para el temario.
+
+### Dar click en [liga2](https://hackmd.io/@palmoreck/Sy2qixj28) para una presentación de introducción al prope.
 
 ### Dar click en el siguiente botón para unirse al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
@@ -17,7 +19,7 @@ En este repositorio se han creado diferentes ramas que pueden ser accesadas como
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
 
-**Dar click en [liga](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
+**Dar click en [liga3](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
 
 ## Breve explicación del repositorio en la rama master.
 
@@ -36,7 +38,7 @@ En la carpeta [herramientas](/herramientas) encuentran herramientas como [docker
 
 ## Organización de github classroom
 
-La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/), ver también [github education](https://github.com/education). Esta organización será nuestro *playground* para el curso :)
+La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso :)
 
 
 
