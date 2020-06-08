@@ -19,7 +19,7 @@ En este repositorio se han creado diferentes ramas que pueden ser accesadas como
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
 
-**Dar click en [prope-2020](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del semestre enero-mayo 2020.**
+**Dar click en [prope-2020](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del verano 2020.**
 
 ## Breve explicación del repositorio en la rama master.
 
