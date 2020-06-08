@@ -1,6 +1,6 @@
 Información sobre bash:
 
-* [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+* [Bash GNU](https://www.gnu.org/software/bash/), [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 
 Tutoriales:
