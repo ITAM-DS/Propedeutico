@@ -47,9 +47,11 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **Python**
 
-0. [0_contenedor_de_docker_para_Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
+[0. Contenedor de docker para Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
-1. 
+[1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/1_informacion_general.ipynb)
+
+[2. Core Python](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/2_core_python.ipynb)
 
 **R**
 
