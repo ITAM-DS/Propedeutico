@@ -14,7 +14,7 @@ Propedéutico de la MCD en el ITAM
 
 | Semanas   | Tema                                                              |
 | :--------:|:-----------------------------------------------------------------:|
-| semana 1 (8-10 junio) | introducción a Python y breve introducción a git y docker                                            | 
+| semana 1 (8-10 junio) | uso de github e introducción a Python.                                            | 
 | semana 2 (15-17 junio)| diferenciación, integración, álgebra lineal                       |
 | semana 3 (22-24 junio)| aplicaciones de álgebra lineal: interpolación, regresión lineal, compresión de imágenes, introducción a R                  |
 |semana 4  (29-1 julio)| continuación introducción a R, probabilidad y estadística            |
