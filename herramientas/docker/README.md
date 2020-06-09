@@ -8,7 +8,7 @@ Información sobre docker:
 
 * [Play with Docker Classroom](https://training.play-with-docker.com/)
 
-* Para instalación: [About Docker CE](https://docs.docker.com/install/) 
+* Para instalación: [Get docker](https://docs.docker.com/install/) 
 
 
 docker online: (crear una cuenta en [dockerhub](https://hub.docker.com/))
