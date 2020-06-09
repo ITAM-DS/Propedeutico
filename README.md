@@ -24,6 +24,8 @@ Propedéutico de la MCD en el ITAM
 
 ## Clase 1
 
+8 de junio
+
 Revisamos la presentación https://hackmd.io/@palmoreck/Sy2qixj28 al prope.
 
 De tarea quedó:
