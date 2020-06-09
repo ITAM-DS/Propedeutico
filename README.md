@@ -12,7 +12,7 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 
 ### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:2.1.4` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
 
-\* Tal imagen de docker se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:2.1.4` desde la terminal una vez hayan instalado docker en sus computadoras. Ver [herramientas/docker/] para referencias de docker.
+\* Tal imagen de docker se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:2.1.4` desde la terminal una vez hayan instalado docker en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
 
 ## Ramas del repositorio.
 
