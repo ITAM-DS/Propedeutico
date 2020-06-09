@@ -45,3 +45,6 @@ De tarea quedó:
 * Instalar [docker](https://www.docker.com/) en sus máquinas.
 * Crear user de [dockerhub](https://hub.docker.com/).
 * En la [liga](https://github.com/ITAM-DS/Propedeutico/tree/master/herramientas/docker) encuentran información de docker.
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/99e0e632-9129-4011-ab0e-d5fe19f2df42). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga de arriba en la misma pestaña de su browser o en otra.**
