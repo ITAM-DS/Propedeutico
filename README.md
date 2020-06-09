@@ -47,6 +47,8 @@ La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-clas
 
 ## Índice de notas
 
+**Nota: El siguiente índice lo estaré llenando conforme avancemos en el curso de verano 2020.** 
+
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
 
 **Python**
@@ -56,6 +58,11 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 [1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/1_informacion_general.ipynb)
 
 [2. Core Python](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/2_core_python.ipynb)
+
+[3. Funciones y módulos](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb)
+
+[4. Módulos: numpy y matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
 
 **R**
 
