@@ -1,7 +1,5 @@
 # Propedeutico 
 
-Esta es una nueva línea.
-
 Propedéutico de la MCD en el ITAM
 
 [![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-Python)](https://repl.it/@palmoreck/repo-for-replit-Python) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2020**)
@@ -49,4 +47,9 @@ De tarea quedó:
 * En la [liga](https://github.com/ITAM-DS/Propedeutico/tree/master/herramientas/docker) encuentran información de docker.
 
 
-**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/99e0e632-9129-4011-ab0e-d5fe19f2df42). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga de arriba en la misma pestaña de su browser o en otra.**
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/99e0e632-9129-4011-ab0e-d5fe19f2df42). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 2
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c9a28c33-e5dc-424e-a2f4-07fae5700076). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
