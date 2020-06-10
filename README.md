@@ -47,9 +47,19 @@ De tarea quedó:
 * En la [liga](https://github.com/ITAM-DS/Propedeutico/tree/master/herramientas/docker) encuentran información de docker.
 
 
-**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/99e0e632-9129-4011-ab0e-d5fe19f2df42). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/77bdb659-8015-46af-961f-408a9020ce17). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
 
 ## Clase 2
+
+Revisamos diferencias entre clonar, forkear un repositorio y pull requests con github.
+
+
+Revisamos las notas:
+
+[0_contenedor_de_docker_para_Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
+
+[1_informacion_general](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/1_informacion_general.ipynb)
+
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c9a28c33-e5dc-424e-a2f4-07fae5700076). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
