@@ -52,6 +52,8 @@ De tarea quedó:
 
 ## Clase 2
 
+9 de junio
+
 Revisamos diferencias entre clonar, forkear un repositorio y pull requests con github.
 
 
@@ -63,3 +65,18 @@ Revisamos las notas:
 
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c9a28c33-e5dc-424e-a2f4-07fae5700076). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+## Clase 3
+
+10 de junio
+
+Revisamos creación de ramas, merges y pull requests desde github.
+
+Revisamos las notas:
+
+
+[2_core_python](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/2_core_python.ipynb)
+
+[4_modulos_numpy_matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2cc8a951-ce48-4cfa-bf1c-57881bebc79e). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
