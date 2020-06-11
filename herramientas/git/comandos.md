@@ -40,3 +40,17 @@ Después de realizar por primera vez lo anterior si quiero hacer cambios en un a
 git commit -m "mensaje de mi commit con los cambios" -i <nombre de mi archivo>
 git push origin <rama> #por ejemplo rama master
 ```
+
+Si quiero borrar un archivo que ya fue añadido con `git add <nombre de mi archivo>` hago:
+
+```
+git rm <nombre de mi archivo>
+```
+
+y luego el commit, push correspondiente:
+
+```
+git commit -m "mensaje de commit" -i <nombre de mi archivo borrado>
+git push origin <rama>
+```
+
