@@ -80,3 +80,14 @@ Revisamos las notas:
 [4_modulos_numpy_matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2cc8a951-ce48-4cfa-bf1c-57881bebc79e). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+La práctica semanal #1 la encuentran en google classroom
+
+## Clase 4 (apoyo)
+
+11 de junio
+
+Apoyo para instalación de docker en Windows y dudas sobre [repl.it](https://repl.it/), jupyterlab, comandos de git y práctica semanal #1
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/54a66199-1d11-4eac-abd0-fc3f6ea984c1). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
