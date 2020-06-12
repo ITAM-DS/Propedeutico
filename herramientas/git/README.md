@@ -17,3 +17,7 @@ Playground with git:
 Referencia con tips y templates para proyectos:
 
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) y su [cookiecutter/cookiecutter github](https://github.com/cookiecutter/cookiecutter)
+
+A successful git branching model:
+
+* https://nvie.com/posts/a-successful-git-branching-model/
