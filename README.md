@@ -61,7 +61,7 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **Python**
 
-Introducción:
+**Introducción:**
 
 [0. Contenedor de docker para Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
@@ -73,7 +73,7 @@ Introducción:
 
 [4. Módulos: numpy y matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
-Cálculo Diferencial e Integral:
+**Cálculo Diferencial e Integral:**
 
 [1. Aproximación a derivadas e integrales de forma numérica](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
