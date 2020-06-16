@@ -91,3 +91,20 @@ La **práctica semanal #1** la encuentran en google classroom
 Apoyo para instalación de docker en Windows y dudas sobre [repl.it](https://repl.it/), jupyterlab, comandos de git y práctica semanal #1 Recomendación para la instalación de docker en Windows con: https://docs.docker.com/toolbox/toolbox_install_windows/ que trae virtual box y de esta forma seguir los pasos descritos en: [0_contenedor_de_docker_para_Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/54a66199-1d11-4eac-abd0-fc3f6ea984c1). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+## Clase 5
+
+15 de junio
+
+Finalizamos la nota:
+
+[3 funciones y modulos](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb)
+
+Revisamos hasta antes de diferenciación numérica:
+
+[1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/a26390ac-ad76-48fb-8615-fa4e18015e99). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
