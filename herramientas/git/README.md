@@ -6,6 +6,10 @@ Tutorials:
 
 * [git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
+Lab:
+
+* [Intro to github](https://lab.github.com/githubtraining/introduction-to-github)
+
 Lessons:
 
 * [Carrying out your scripting project](http://geoscripting-wur.github.io/RProjectManagement/)
