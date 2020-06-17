@@ -6,9 +6,9 @@ Propedéutico de la MCD en el ITAM
 
 [![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-R)](https://repl.it/@palmoreck/repo-for-replit-R) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2020**)
 
-[Lista de estudiantes]()
+[Lista de estudiantes](https://drive.google.com/file/d/1dK9snUjbs-ki0M62tAswkyp5_efOXQiX/view?usp=sharing)
 
-[Prácticas semanales]()
+[Prácticas semanales en gh-classroom](https://github.com/prope-2020-gh-classroom)
 
 ## Organización del propedéutico:
 
