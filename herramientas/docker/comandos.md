@@ -113,5 +113,44 @@ y si ya nunca más lo vamos a usar lo borramos con:
 docker rm <micontenedor>
 ```
 
+## Ejemplos de imágenes públicas:
 
+* Ubuntu interactivo
+
+```
+docker run --rm -v $(pwd):/datos --name micontenedor -it ubuntu:18.04 bash
+```
+
+una vez adentro en el contenedor se puede ejecutar:
+
+```
+apt-get update && apt-get install -y lsb-release
+lsb_release -a
+```
+
+* Debian interactivo
+
+```
+docker run --rm -v $(pwd):/datos --name micontenedor -it debian:buster bash
+```
+
+una vez adentro en el contenedor se puede ejecutar:
+
+```
+apt-get update && apt-get install -y lsb-release
+lsb_release -a
+```
+
+* [Rocker](https://github.com/rocker-org/rocker)
+
+```
+dir_montar=
+REPO_URL=rocker/r-base
+VERSION=4.0.1
+PASSWORD=qwerty
+
+
+docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name r-base-container -e PASSWORD=$PASSWORD $REPO_URL:$VERSION 
+```
+Ver https://hub.docker.com/r/rocker/r-base/tags para los tags a usar en `VERSION`
 
