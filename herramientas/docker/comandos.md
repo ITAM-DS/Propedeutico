@@ -145,12 +145,15 @@ lsb_release -a
 
 ```
 dir_montar=
-REPO_URL=rocker/r-base
-VERSION=4.0.1
+REPO_URL=rocker/rstudio
+VERSION=4.0.0-ubuntu18.04
 PASSWORD=qwerty
 
 
 docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name r-base-container -e PASSWORD=$PASSWORD $REPO_URL:$VERSION 
 ```
-Ver https://hub.docker.com/r/rocker/r-base/tags para los tags a usar en `VERSION`
+
+User: `rstudio` y password: `qwerty`.
+
+Ver https://hub.docker.com/r/rocker/rstudio/tags para los tags a usar en `VERSION`
 
