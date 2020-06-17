@@ -77,6 +77,7 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [1. Aproximación a derivadas e integrales de forma numérica](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
+[Example_when_not_using_if_name_main](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/Example_when_not_using_if_name_main.ipynb)
 
 **R**
 
