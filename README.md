@@ -79,6 +79,11 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [Example_when_not_using_if_name_main](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/Example_when_not_using_if_name_main.ipynb)
 
+
+**Álgebra lineal**
+
+[0. Definiciones generales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
+
 **R**
 
 
