@@ -63,6 +63,7 @@ Revisamos las notas:
 
 [1_informacion_general](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/1_informacion_general.ipynb)
 
+Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it-Python/tree/master/9_june_class)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c9a28c33-e5dc-424e-a2f4-07fae5700076). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
@@ -78,6 +79,9 @@ Revisamos las notas:
 [2_core_python](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/2_core_python.ipynb)
 
 [4_modulos_numpy_matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
+Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it-Python/tree/master/10_june_class)
+
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2cc8a951-ce48-4cfa-bf1c-57881bebc79e). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
@@ -104,7 +108,19 @@ Revisamos hasta antes de diferenciación numérica:
 
 [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
-
+Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it-Python/tree/master/15_june_class)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/a26390ac-ad76-48fb-8615-fa4e18015e99). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
+
+## Clase 6
+
+16 de junio
+
+Llegamos a diferenciación en más dimensiones:
+
+[1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it-Python/tree/master/16_june_class)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/f00bdefe-d595-454c-8145-2f40cf0ec75f). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
