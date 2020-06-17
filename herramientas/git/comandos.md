@@ -3,9 +3,9 @@
 Clonar un repo:
 
 ```
-git clone <url de mi repo que está en gh-classroom> <aquí colocar nombre de un directorio>
+git clone <url de mi repo que está en github <aquí colocar nombre de un directorio>
 
-#el comando anterior les pedirá sus credenciales de github tecleen la respuesta y den enter por cada respuesta
+#el comando anterior les pedirá sus credenciales de github sólo si es un repo privado. Tecleen la respuesta y den enter por cada respuesta.
 
 cd <nombre del directorio elegido en la línea anterior> 
 #cd es "change directory" y lo usamos para entrar al directorio
@@ -54,3 +54,8 @@ git commit -m "mensaje de commit" -i <nombre de mi archivo borrado>
 git push origin <rama>
 ```
 
+Si quiero eliminar los cambios realizados en un archivo:
+
+```
+git checkout -- <nombre de mi archivo>
+```
