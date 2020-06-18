@@ -117,6 +117,8 @@ Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it
 
 16 de junio
 
+La primer hora la dedicamos a revisar comandos de git con repositorio test creado debajo de usuario palmoreck. Clonar, cambiar archivo, hacer pull, hacer push, borrar archivo.
+
 Llegamos a diferenciación en más dimensiones:
 
 [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
@@ -124,3 +126,13 @@ Llegamos a diferenciación en más dimensiones:
 Ejercicios en [repl](https://github.com/prope-2020-gh-classroom/repo-for-repl.it-Python/tree/master/16_june_class)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/f00bdefe-d595-454c-8145-2f40cf0ec75f). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+## Clase 7 
+
+17 de junio 
+
+La primera media hora la dedicamos a revisar creación de issues, milestones vía github.
+
+Llegamos hasta integrales de más dimensiones en [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/cab16ebd-78a7-48db-877c-56a9b2397dad). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
