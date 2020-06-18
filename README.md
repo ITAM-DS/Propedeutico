@@ -44,6 +44,14 @@ En la carpeta [herramientas](/herramientas) encuentran información de herramien
 
 La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2020 :)
 
+Esta organización tiene integrados los siguientes botones de [repl.it](https://repl.it/) para el curso de verano 2020:
+
+[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-Python)](https://repl.it/@palmoreck/repo-for-replit-Python) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2020**)
+
+[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-R)](https://repl.it/@palmoreck/repo-for-replit-R) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2020**)
+
+
+
 
 ## Índice de notas
 
@@ -52,6 +60,8 @@ La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-clas
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
 
 **Python**
+
+**Introducción:**
 
 [0. Contenedor de docker para Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
@@ -63,6 +73,16 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [4. Módulos: numpy y matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
+**Cálculo Diferencial e Integral:**
+
+[1. Aproximación a derivadas e integrales de forma numérica](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+[Example_when_not_using_if_name_main](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/Example_when_not_using_if_name_main.ipynb)
+
+
+**Álgebra lineal**
+
+[0. Definiciones generales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
 
 **R**
 
