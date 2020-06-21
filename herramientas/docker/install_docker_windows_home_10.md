@@ -1,7 +1,7 @@
 ### Gracias a José Luis Roberto Zárate Cortés por las siguientes instrucciones :)
 
 
-Sistema Operativo Windows 10 Home.
+### Sistema Operativo Windows 10 Home.
 
 La instalación de Docker Desktop for Windows requiere Windows 10 64bit: Pro, Enterprise or Education
 (Build 15063 o posterior).Para Windows 10 Home Edit., es necesario instalar:
