@@ -1,3 +1,6 @@
+### Gracias a José Luis Roberto Zárate Cortés por las siguientes instrucciones :)
+
+
 Sistema Operativo Windows 10 Home.
 
 La instalación de Docker Desktop for Windows requiere Windows 10 64bit: Pro, Enterprise or Education
@@ -35,7 +38,9 @@ Y realizar los siguientes pasos para montar una carpeta (si no van a mapear puer
 
 
 Es importante mencionar lo siguiente:
+
     1. La ruta de la carpeta no debe contener caracteres especiales o nombres que el sistema traduce en la ruta pero no en el sistema, por ejemplo "Documents" por "Documentos".
+    
     2. Al montar en "dir_montar", para la ruta utilizada se eliminan los dos puntos":" y se sustituye el símbolo diagonal invertida "\" por diagonal "/", por ejemplo:
     
         dir_montar=C:\Users\miuser\folder
