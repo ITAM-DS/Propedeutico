@@ -14,7 +14,7 @@ a. Presiona la tecla con el logo de windows (Win key) + R, escribe `winver`, y p
 
 b. Ingresa el comando `ver` en _Windows Command Prompt_:
 
-<img src="https://dl.dropboxusercontent.com/s/sq9xssvcyroyxhw/forma_2.jpg?dl=0" heigth="800" width="800">
+<img src="https://dl.dropboxusercontent.com/s/sq9xssvcyroyxhw/forma_2.jpg?dl=0" heigth="400" width="400">
 
 
 c. Ingresa a _Configuración_, después en _Acerca de_:
