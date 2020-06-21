@@ -8,11 +8,9 @@ Puedes revisar la versión del SO de las maneras siguientes:
 
 a. Presiona la tecla con el logo de windows (Win key) + R, escribe `winver`, y presiona aceptar:
 
-https://www.dropbox.com/s/giy7lohu3bcfpvo/forma_1a.jpg?dl=0
+<img src="https://dl.dropboxusercontent.com/s/giy7lohu3bcfpvo/forma_1a.jpg?dl=0" heigth="400" width="400">
 
-<img src="https://dl.dropboxusercontent.com/s/giy7lohu3bcfpvo/forma_1a.jpg?dl=0" heigth="800" width="800">
-
-<img src="https://dl.dropboxusercontent.com/s/0jikvb10ew18rih/forma_1b.png?dl=0" heigth="800" width="800">
+<img src="https://dl.dropboxusercontent.com/s/0jikvb10ew18rih/forma_1b.png?dl=0" heigth="400" width="400">
 
 b. Ingresa el comando `ver` en _Windows Command Prompt_:
 
@@ -41,6 +39,7 @@ Antes de instalar cualquier distribución de Linux, debes habilitar el subsistem
     wsl --set-default-version 2
     ```
     i. Si aparece el mensaje `WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel` visita la página [https://aka.ms/wsl2kernel](https://aka.ms/wsl2kernel)
+    
     ii. Instala la actualización _WSL 2 Linux kernel_,
     también lo puedes descargar desde: [https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
     
