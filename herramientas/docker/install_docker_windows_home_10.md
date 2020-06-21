@@ -23,10 +23,10 @@ Y realizar los siguientes pasos para montar una carpeta (si no van a mapear puer
 
 1. Habilitar la opción de carpeta compartida para MONTAR en un directorio local, con lo que se direccionan los archivos creados en el contenedor a una carpeta evitando la pérdida en caso de borrado accidental del contenedor:
     
-        Abrir ORACLE VM VirtualBox e ir a:
+
+Abrir ORACLE VM VirtualBox e ir a:
   
-        Configuración-->Carpetas Compartidas-->Agregar (+). En el cuadro indicar Ruta Carpeta, Nombre y seleccionar
-        los checklist Automontar y Hacer Permanente.
+Configuración-->Carpetas Compartidas-->Agregar (+). En el cuadro indicar Ruta Carpeta, Nombre y seleccionar los checklist Automontar y Hacer Permanente.
         
         
 
