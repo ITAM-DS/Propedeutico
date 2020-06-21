@@ -39,9 +39,9 @@ Configuración-->Carpetas Compartidas-->Agregar (+). En el cuadro indicar Ruta C
 
 Es importante mencionar lo siguiente:
 
-    1. La ruta de la carpeta no debe contener caracteres especiales o nombres que el sistema traduce en la ruta pero no en el sistema, por ejemplo "Documents" por "Documentos".
+1. La ruta de la carpeta no debe contener caracteres especiales o nombres que el sistema traduce en la ruta pero no en el sistema, por ejemplo "Documents" por "Documentos".
     
-    2. Al montar en "dir_montar", para la ruta utilizada se eliminan los dos puntos":" y se sustituye el símbolo diagonal invertida "\" por diagonal "/", por ejemplo:
+2. Al montar en "dir_montar", para la ruta utilizada se eliminan los dos puntos":" y se sustituye el símbolo diagonal invertida "\" por diagonal "/", por ejemplo:
     
         dir_montar=C:\Users\miuser\folder
         dir_montar=/c/Users/miuser/Folder
