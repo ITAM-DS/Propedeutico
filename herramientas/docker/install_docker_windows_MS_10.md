@@ -1,3 +1,5 @@
+### Gracias a Aáron Torrijos Solís por las siguientes instrucciones :)
+
 ### Instalación en MS Windows 10
 
 #### Previos
@@ -58,8 +60,11 @@ Antes de instalar cualquier distribución de Linux, debes habilitar el subsistem
     * [Alpine WSL](https://www.microsoft.com/store/apps/9p804crf0395)
     
 5. La distribución funcionará como un programa más, corre la distribución y configurala para su primer uso.
+
     i. La primera vez que corre la distribución, una consola te pedirá que esperes unos minutos para completar la instalación.
+    
     ii. Te pedira que crees un usuario, lo único que tienes que hacer es teclear el nombre de usario que deseas y presiona la tecla 'enter'.
+    
     iii. Te pedira que crees una contraseña para este usuario, teclea la contraseña que deseas y presiona la tecla 'enter'. Te solicitará que la confirmes y presiona la tecla 'enter' nuevamente.
     
 <img src="https://dl.dropboxusercontent.com/s/smavjnefg0e1jbu/ubuntuinstall.png?dl=0" heigth="800" width="800">
