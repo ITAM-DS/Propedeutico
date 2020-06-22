@@ -83,6 +83,17 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [0. Definiciones generales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
 
+[1. Ecuaciones lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
+
+[2. Interpolación](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+
+[3. Mínimos cuadrados lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
+
+[4. SVD y reconstrucción de imágenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+
 **R**
 
+[0. Contenedor de docker para R](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/0_contenedor_de_docker_para_R.ipynb)
+
+[1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
 
