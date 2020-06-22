@@ -144,16 +144,16 @@ lsb_release -a
 * [Rocker](https://github.com/rocker-org/rocker)
 
 ```
-dir_montar=
-REPO_URL=rocker/rstudio
-VERSION=4.0.0-ubuntu18.04
+dir_montar==<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta al directorio a montar, por ejemplo: 
+#dir_montar=/Users/erick/midirectorio.
+
 PASSWORD=qwerty
 
 
-docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name r-base-container -e PASSWORD=$PASSWORD $REPO_URL:$VERSION 
+docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name r-base-container -e PASSWORD=$PASSWORD rocker/rstudio:4.0.0-ubuntu18.04
 ```
 
-User: `rstudio` y password: `qwerty`.
+User: `rstudio` y password: `qwerty`. Ir a `localhost:8787`
 
-Ver https://hub.docker.com/r/rocker/rstudio/tags para los tags a usar en `VERSION`
+Ver https://hub.docker.com/r/rocker/rstudio/tags para los tags que existen (en el caso anterior se usa `4.0.0-ubuntu18.04`)
 
