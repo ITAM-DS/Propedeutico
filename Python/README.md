@@ -10,6 +10,8 @@ Referencias:
 
 * J. Kiusalaas, Numerical Methods in Engineering with Python3, Cambridge University Press, 2013.
 
+* A. B. Downey, Think Python, O'Reilly, 2015.
+
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
 * [BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide), [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers), [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
@@ -29,3 +31,8 @@ Jupyterlab online:
 * https://jupyter.org/try
 
 En el directorio [clases](clases/) se encuentra información general y clases de cálculo numérico para el propedéutico.
+
+
+## Para iniciar en la programación con Python
+
+Del libro **Think Python** realizar los ejercicios de los capítulos: 1, 2, 3, 4, 5, 6, 7, 8, 10 (listas), 11 (diccionarios), 12 (tuplas). La solución de los ejercicios la encuentran en: http://greenteapress.com/thinkpython2/code/ 
