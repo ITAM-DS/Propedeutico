@@ -148,3 +148,16 @@ Revisamos:
 [1. Ecuaciones lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c0028875-e8e2-4d0e-8cdb-dd53d66ac698). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 9
+
+23 de junio
+
+Finalizamos:
+
+[1. Ecuaciones lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
+
+[2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c86047f2-3425-4275-aeff-614699b43074). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
