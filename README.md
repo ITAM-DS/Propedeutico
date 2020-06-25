@@ -158,6 +158,24 @@ Finalizamos:
 
 [1. Ecuaciones lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
-[2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+[2. interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/c86047f2-3425-4275-aeff-614699b43074). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+## Clase 10
+
+24 de junio
+
+Finalizamos:
+
+[3. Minimos Cuadrados](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
+
+[4. SVD y reconstrucción de imágenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/f82b6a65-7254-4267-96bd-1ff5dcfcc301). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+
+
+
+
