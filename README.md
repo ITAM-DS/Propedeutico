@@ -137,6 +137,9 @@ Llegamos hasta integrales de más dimensiones en [1_aproximacion_a_derivadas_e_i
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/cab16ebd-78a7-48db-877c-56a9b2397dad). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
+La **práctica semanal #2** la encuentran en google classroom
+
+
 ## Clase 8
 
 22 de junio
@@ -174,8 +177,17 @@ Finalizamos:
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/f82b6a65-7254-4267-96bd-1ff5dcfcc301). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
+La **práctica semanal #3** la encuentran en google classroom
 
 
+## Clase 11 (apoyo)
+
+25 de junio
+
+Feedback de la práctica semanal #2
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2c485cbc-26ab-4bfe-be1f-faabf425496e). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
 
 
