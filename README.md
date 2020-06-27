@@ -79,7 +79,7 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [Ejemplo al no usar bloque de if name main en modulo](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/Ejemplo_al_no_usar_bloque_if_name_main_en_modulo.ipynb)
 
-**Álgebra lineal**
+**Álgebra lineal:**
 
 [0. Definiciones generales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
 
@@ -93,7 +93,33 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **R**
 
+**Introducción:**
+
 [0. Contenedor de docker para R](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/0_contenedor_de_docker_para_R.ipynb)
 
 [1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+[2. Core R](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/2_core_R.ipynb)
+
+[3. ggplot2](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/3_ggplot2.ipynb)
+
+**Probabilidad:**
+
+[1. Elementos de probabilidad](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
+
+[2. Propiedades de la probabilidad](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
+
+[3. Métodos de conteo](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb)
+
+[4. Probabilidad condicional](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+[5. Independencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/5_independencia.ipynb)
+
+[6. Teorema de Bayes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
+
+[7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+
+
+
 
