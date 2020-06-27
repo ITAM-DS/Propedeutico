@@ -47,6 +47,10 @@ R online:
 
 * https://rdrr.io/snippets/
 
+R studio:
+
+* [rstudio](https://rstudio.com/)
+
 Rstudio online:
 
 * https://rstudio.cloud/
