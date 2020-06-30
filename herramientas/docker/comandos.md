@@ -144,7 +144,7 @@ lsb_release -a
 * [Rocker](https://github.com/rocker-org/rocker)
 
 ```
-dir_montar==<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta al directorio a montar, por ejemplo: 
+dir_montar=<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta al directorio a montar, por ejemplo: 
 #dir_montar=/Users/erick/midirectorio.
 
 PASSWORD=qwerty
