@@ -191,3 +191,24 @@ Feedback de la práctica semanal #2
 
 
 
+## Clase 12 
+
+29 de junio
+
+Finalizamos:
+
+[0. Contenedor de docker para R](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/0_contenedor_de_docker_para_R.ipynb)
+
+[1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+[2. Core R](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/2_core_R.ipynb)
+
+[3. ggplot2](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/1_introduccion/3_ggplot2.ipynb)
+
+
+Llegamos hasta espacio muestral en:
+
+[1. Elementos de probabilidad](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/7019cd23-220c-4820-8d8e-c046fa0e2e0c). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
