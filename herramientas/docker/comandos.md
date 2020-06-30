@@ -150,7 +150,7 @@ dir_montar=<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta 
 PASSWORD=qwerty
 
 
-docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name r-base-container -e PASSWORD=$PASSWORD rocker/rstudio:4.0.0-ubuntu18.04
+docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name rstudio-container -e PASSWORD=$PASSWORD rocker/rstudio:4.0.0-ubuntu18.04
 ```
 
 User: `rstudio` y password: `qwerty`. Ir a `localhost:8787`
