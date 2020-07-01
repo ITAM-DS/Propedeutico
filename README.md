@@ -212,3 +212,24 @@ Llegamos hasta espacio muestral en:
 
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/7019cd23-220c-4820-8d8e-c046fa0e2e0c). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 13
+
+30 de junio
+
+Finalizamos:
+
+[1. Elementos de probabilidad](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
+
+[2. Propiedades de la probabilidad](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
+
+[3. Métodos de conteo](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb)
+
+Sólo primeros ejemplos de:
+
+[4. Probabilidad condicional](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/0bec8235-3a0a-4943-9743-437b4cfa4b58). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
