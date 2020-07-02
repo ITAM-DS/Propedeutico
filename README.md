@@ -233,3 +233,22 @@ Sólo primeros ejemplos de:
 
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/0bec8235-3a0a-4943-9743-437b4cfa4b58). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 14
+
+1 de julio 
+
+Finalizamos:
+
+[4. Probabilidad condicional](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+[5. Independencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/5_independencia.ipynb)
+
+
+[6. Teorema de Bayes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
+
+
+Hasta transformaciones de variables aleatorioas de: [7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2d047eca-91c5-446a-aa9b-3dad7b9171e0). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
