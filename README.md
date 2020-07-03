@@ -119,7 +119,13 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
+**Estadística:**
 
+[1. Elementos de estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+[2. Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+
+[3. Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
 
 
