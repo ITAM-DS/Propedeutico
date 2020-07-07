@@ -252,3 +252,17 @@ Finalizamos:
 Hasta transformaciones de variables aleatorioas de: [7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2d047eca-91c5-446a-aa9b-3dad7b9171e0). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 15
+
+6 de julio
+
+Finalizamos:
+
+[7_variables_aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+Llegamos a visualizar el *dataset* de mamíferos de R (librería MASS) en [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/4440a8fb-fe70-48af-bb74-a37ab093902a). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
