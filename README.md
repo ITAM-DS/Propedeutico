@@ -249,14 +249,18 @@ Finalizamos:
 [6. Teorema de Bayes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
 
 
-Hasta transformaciones de variables aleatorioas de: [7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+Hasta transformaciones de variables aleatorias de: [7. Variables aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/2d047eca-91c5-446a-aa9b-3dad7b9171e0). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+La **práctica semanal #4** la encuentran en google classroom
 
 
 ## Clase 15
 
 6 de julio
+
+Resolvimos dudas de la práctica semanal #4
 
 Finalizamos:
 
@@ -266,3 +270,15 @@ Llegamos a visualizar el *dataset* de mamíferos de R (librería MASS) en [1_ele
 
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/4440a8fb-fe70-48af-bb74-a37ab093902a). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+
+## Clase 16
+
+7 de julio
+
+Finalizamos: [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+Llegamos a distribución binomial de: [2_distribuciones_comunes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/a93ad309-91e5-4102-88a8-f5647ef1f441). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
