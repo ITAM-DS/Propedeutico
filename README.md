@@ -89,7 +89,7 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [3. Mínimos cuadrados lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
 
-[4. SVD y reconstrucción de imágenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+[4. SVD](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
 **R**
 
@@ -121,11 +121,8 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **Estadística:**
 
-[1. Elementos de estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+[1. Elementos de Estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
 
 [2. Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
 [3. Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
-
-
-
