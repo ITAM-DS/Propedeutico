@@ -126,3 +126,5 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 [2. Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
 [3. Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+
+[4. Regresión lineal](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/4_regresion_lineal.ipynb)
