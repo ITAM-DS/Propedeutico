@@ -293,3 +293,16 @@ Finalizamos: [2_distribuciones_comunes](https://github.com/ITAM-DS/Propedeutico/
 Llegamos hasta región de rechazo en [3_elementos_de_inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/239aaf8f-2f1e-49db-9be9-ed0705202a30). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
+## Clase 18
+
+13 de julio
+
+Finalizamos: 
+
+[3_elementos_de_inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+
+[4_regresion_linea](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/4_regresion_lineal.ipynb)
+
+**Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/7cdee550-65f8-42e3-88db-fcb0bf8f15cc). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
+
