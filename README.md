@@ -55,8 +55,6 @@ Esta organización tiene integrados los siguientes botones de [repl.it](https://
 
 ## Índice de notas
 
-**Nota: El siguiente índice lo estaré llenando conforme avancemos en el curso de verano 2020.** 
-
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
 
 **Python**
