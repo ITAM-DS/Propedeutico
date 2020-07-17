@@ -56,3 +56,8 @@ Rstudio online:
 * https://rstudio.cloud/
 
 En el directorio [clases](clases/) se encuentra información general y clases de probabilidad y estadística para el propedéutico.
+
+## Para iniciar en la programación con R
+
+Consultar libro [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
