@@ -57,7 +57,7 @@ Esta organización tiene integrados los siguientes botones de [repl.it](https://
 
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
 
-**Python**
+**[Python](/Python)**
 
 **Introducción:**
 
@@ -89,7 +89,7 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [4. SVD](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
-**R**
+**[R](/R)**
 
 **Introducción:**
 
