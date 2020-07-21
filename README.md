@@ -306,3 +306,9 @@ Finalizamos:
 
 **Liga al video de la sesión: [liga microsoft teams](https://web.microsoftstream.com/video/7cdee550-65f8-42e3-88db-fcb0bf8f15cc). Tienen que hacer login con su cuenta del itam y luego les pedirá que ingresen nuevamente pero con su cuenta de comunidad itam y luego vuelvan a copiar la liga anterior en la misma pestaña de su browser o en otra.**
 
+
+## Clase 19
+
+20 de julio
+
+Presentaciones de trabajos finales. Fue un día no obligatorio para asistencia, sólo para compartir sus trabajos por equipos.
