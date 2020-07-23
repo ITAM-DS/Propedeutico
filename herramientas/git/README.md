@@ -25,3 +25,7 @@ Referencia con tips y templates para proyectos:
 A successful git branching model:
 
 * https://nvie.com/posts/a-successful-git-branching-model/
+
+[Video](https://www.youtube.com/watch?v=AvDiY9YcCdE&list=PLc_ATubXG-SSBl1JtXZHGvKLfyqUs6ETl) para crear proyectos.
+
+
