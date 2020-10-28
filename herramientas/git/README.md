@@ -14,6 +14,8 @@ Lessons:
 
 * [Carrying out your scripting project](http://geoscripting-wur.github.io/RProjectManagement/)
 
+* [git-commit](https://chris.beams.io/posts/git-commit/)
+
 Playground with git:
 
 * [learngitbranching](https://learngitbranching.js.org/)
@@ -26,6 +28,10 @@ A successful git branching model:
 
 * https://nvie.com/posts/a-successful-git-branching-model/
 
-[Video](https://youtu.be/z4Xpif7HI04) para crear proyectos en github.
+Para crear proyectos en github:
+
+[Video](https://youtu.be/z4Xpif7HI04) 
+
+
 
 
