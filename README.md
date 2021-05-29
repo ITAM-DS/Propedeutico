@@ -6,7 +6,8 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 
 ### Dar click en [liga2](https://hackmd.io/@palmoreck/rJQQIEmbv) para una presentación de introducción al prope verano 2020.
 
-### Dar click en el siguiente botón para unirse\* al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+### Dar click en el siguiente botón para unirse\* al chat del verano del 2021 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2021/community.svg)](https://gitter.im/prope-2021/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 \***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
 
@@ -42,13 +43,13 @@ En la carpeta [herramientas](/herramientas) encuentran información de herramien
 
 ## Organización de github classroom
 
-La organización [prope-2020-gh-classroom](https://github.com/prope-2020-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2020 :)
+La organización [prope-2021-gh-classroom](https://github.com/prope-2021-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2021 :)
 
 Esta organización tiene integrados los siguientes botones de [repl.it](https://repl.it/) para el curso de verano 2020:
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-Python)](https://repl.it/@palmoreck/repo-for-replit-Python) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2020**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2021**)
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2020-gh-classroom/repo-for-repl.it-R)](https://repl.it/@palmoreck/repo-for-replit-R) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2020**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2021**)
 
 
 
