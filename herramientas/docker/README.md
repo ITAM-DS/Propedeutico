@@ -6,6 +6,8 @@ Información sobre docker:
 
 * https://docs.docker.com/
 
+* [video](https://www.youtube.com/watch?v=shMr_Bd01Ko) la primer hora es la que cubre lo básico de docker ¿contenedores, imágenes? En la siguiente hora explican una herramienta bioinformática.
+
 * [Play with Docker Classroom](https://training.play-with-docker.com/)
 
 * Para instalación: [Get docker](https://docs.docker.com/install/) 
