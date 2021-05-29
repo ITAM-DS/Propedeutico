@@ -1,13 +1,13 @@
 # Propedeutico 
 Propedéutico de la MCD en el ITAM  
 
-(botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano xxxx**)
 
-(botón de **Repl.it para R con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano xxxx**)
 
 [Lista de estudiantes]()
 
-[Prácticas semanales en gh-classroom]()
+[Organización gh-classroom](https://github.com/prope-2021-gh-classroom)
 
 ## Organización del propedéutico:
 
