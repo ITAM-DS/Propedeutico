@@ -14,6 +14,8 @@ cd <nombre del directorio elegido en la línea anterior>
 Verificar si existen cambios que debo conseguir con `pull`:
 
 ```
+git pull
+#o bien:
 git pull origin <rama> #por ejemplo rama master
 ```
 
@@ -24,6 +26,8 @@ git config --global user.email "<mi correo asociado de github>"
 git config --global user.name "<mi nombre>"
 git add <nombre de mi notebook>
 git commit -m "mensaje de mi commit" -i <nombre de mi archivo>
+git push
+#o bien:
 git push origin <rama> #por ejemplo rama master
 ```
 
@@ -38,6 +42,8 @@ Después de realizar por primera vez lo anterior si quiero hacer cambios en un a
 #git config --global user.email "<mi correo asociado de github>"
 #git config --global user.name "<mi nombre>"
 git commit -m "mensaje de mi commit con los cambios" -i <nombre de mi archivo>
+git push
+#o bien:
 git push origin <rama> #por ejemplo rama master
 ```
 
@@ -51,6 +57,8 @@ y luego el commit, push correspondiente:
 
 ```
 git commit -m "mensaje de commit" -i <nombre de mi archivo borrado>
+git push
+#o bien:
 git push origin <rama>
 ```
 

@@ -27,3 +27,5 @@ Referencia con tips y templates para proyectos: [Cookiecutter Data Science](http
 Algunas preguntas en *stackoverflow* de apoyo: [how-does-git-store-files](https://stackoverflow.com/questions/8198105/how-does-git-store-files), [index, tracked, untracked files](https://stackoverflow.com/questions/48639081/git-checkout-has-deleted-untracked-files-unintentionally)
 
 Para crear proyectos en github: [Video](https://youtu.be/z4Xpif7HI04) 
+
+[Repl.it](https://repl.it/) y git: https://replit.com/talk/learn/Replit-Git-Tutorial/23331
