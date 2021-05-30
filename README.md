@@ -11,9 +11,9 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 
 \***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
 
-### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:2.1.4` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
+### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
 
-\* Tal imagen de docker se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:2.1.4` desde la terminal una vez hayan instalado docker en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
+\* Tal imagen de docker se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` desde la terminal una vez hayan instalado docker en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
 
 ## Ramas del repositorio.
 
@@ -26,7 +26,7 @@ Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del 
 
 **Dar click en [prope-2020](https://github.com/ITAM-DS/Propedeutico/tree/prope-2020) para la rama del curso del verano 2020.**
 
-## Breve explicación del repositorio en la rama master.
+## Breve explicación del repositorio en la rama main.
 
 En la carpeta [Python](/Python) encuentran temas del cálculo numérico en Python3\*.
 
@@ -62,21 +62,21 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **Introducción:**
 
-[0. Contenedor de docker para Python3](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
+[0. Contenedor de docker para Python3](Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
-[1. Información general](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/1_informacion_general.ipynb)
+[1. Información general](Python/clases/1_introduccion/1_informacion_general.ipynb)
 
-[2. Core Python](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/2_core_python.ipynb)
+[2. Core Python](Python/clases/1_introduccion/2_core_python.ipynb)
 
-[3. Funciones y módulos](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb)
+[3. Funciones y módulos](Python/clases/1_introduccion/3_funciones_y_modulos.ipynb)
 
-[4. Módulos: numpy y matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+[4. Módulos: numpy y matplotlib](Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
 **Cálculo Diferencial e Integral:**
 
-[1. Aproximación a derivadas e integrales de forma numérica](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+[1. Aproximación a derivadas e integrales de forma numérica](Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
-[Ejemplo al no usar bloque de if name main en modulo](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/2_calculo_DeI/Ejemplo_al_no_usar_bloque_if_name_main_en_modulo.ipynb)
+[Ejemplo al no usar bloque de if name main en modulo](Python/clases/2_calculo_DeI/Ejemplo_al_no_usar_bloque_if_name_main_en_modulo.ipynb)
 
 **Álgebra lineal:**
 
