@@ -21,3 +21,14 @@ Propedéutico de la MCD en el ITAM
 | semana 6 | entrega/exposición de práctica final|
 
 ## Clase 1
+
+31 de mayo
+
+Revisamos:
+
+* [presentación de intro](https://hackmd.io/@palmoreck/rJQQIEmbv)
+
+* [temario](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing)
+
+* Intro a github, repl.it, docker, dockerhub vía la imagen del curso.
+
