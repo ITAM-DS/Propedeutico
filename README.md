@@ -32,3 +32,10 @@ Revisamos:
 
 * Intro a github, repl.it, docker, dockerhub vía la imagen del curso.
 
+## Clase 2
+
+1 de junio
+
+Terminamos:
+
+* [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
