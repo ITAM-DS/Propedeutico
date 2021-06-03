@@ -39,3 +39,11 @@ Revisamos:
 Terminamos:
 
 * [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
+
+## Clase 3
+
+2 de junio
+
+Revisamos parte de graficación: 
+
+* [4_modulos_numpy_matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
