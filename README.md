@@ -28,17 +28,17 @@ Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del 
 
 ## Breve explicación del repositorio en la rama main.
 
-En la carpeta [Python](Python) encuentran temas del cálculo numérico en Python3\*.
+En la carpeta [Python](Python) encuentran temas del cálculo numérico en *Python3*\*.
 
-En la carpeta [R](R) encuentran temas de probabilidad y estadística en R\*.
+En la carpeta [R](R) encuentran temas de probabilidad y estadística en *R*\*.
 
 En la carpeta [herramientas](/herramientas) encuentran información de herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
 
-\* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) para funcionalidad de los notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje R, por ejemplo, en tales notebooks).
+\* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) para funcionalidad de los notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje *R*, por ejemplo, en tales notebooks).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- al dar click en este botón, de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para Python como para R dentro de los directorios de [Python](Python) y de [R](R).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- al dar click en este botón, de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](Python) y de [R](R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de Python3, R y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](Python) y de [R](R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de *Python3*, *R* y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
 
 
 ## Organización de github classroom
@@ -70,9 +70,11 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [3. Funciones y módulos](Python/clases/1_introduccion/3_funciones_y_modulos.ipynb)
 
-[4. Módulos: numpy y matplotlib](Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+[4. Módulos: NumPy y Matplotlib](Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
 **Cálculo Diferencial e Integral:**
+
+[0. Módulo: SymPy](Python/clases/2_calculo_DeI/0_modulo_sympy.ipynb)
 
 [1. Aproximación a derivadas e integrales de forma numérica](Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
