@@ -47,3 +47,15 @@ Terminamos:
 Revisamos parte de graficación: 
 
 * [4_modulos_numpy_matplotlib](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
+## Clase 4
+
+7 de junio
+
+Finalizamos:
+
+* [0_modulo_sympy](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/0_modulo_sympy.ipynb)
+
+Llegamos hasta ejercicio de aproximación por Teorema de Taylor: [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+Revisamos dudas de la práctica semanal 1: `git` y `markdown` esencialmente.
