@@ -59,3 +59,9 @@ Finalizamos:
 Llegamos hasta ejercicio de aproximación por Teorema de Taylor: [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
 Revisamos dudas de la práctica semanal 1: `git` y `markdown` esencialmente.
+
+## Clase 5
+
+8 de junio
+
+Llegamos hasta regla simple del rectángulo [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
