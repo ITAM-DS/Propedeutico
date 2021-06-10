@@ -65,3 +65,11 @@ Revisamos dudas de la práctica semanal 1: `git` y `markdown` esencialmente.
 8 de junio
 
 Llegamos hasta regla simple del rectángulo [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+## Clase 6
+
+9 de junio
+
+Finalizamos [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+Llegamos hasta espacios vectoriales de [0_definiciones_generales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
