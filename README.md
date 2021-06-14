@@ -2,11 +2,11 @@
 
 Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM impartido por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
 
-### Dar click en [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) para el temario.
+### En [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) encuentran el temario.
 
-### Dar click en [liga2](https://hackmd.io/@palmoreck/rJQQIEmbv) para una presentación de introducción al prope verano 2021.
+### En [liga2](https://hackmd.io/@palmoreck/rJQQIEmbv) una presentación de introducción al prope verano 2021.
 
-### Dar click en el siguiente botón para unirse\* al chat del verano del 2021 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2021/community.svg)](https://gitter.im/prope-2021/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Con el siguiente botón pueden unirse\* al chat del verano del 2021 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2021/community.svg)](https://gitter.im/prope-2021/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 \***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
@@ -14,6 +14,8 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 ### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
 
 \* Tal imagen de docker se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` desde la terminal una vez hayan instalado docker en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
+
+Para uso de la imagen de docker anterior ver [contenedor_de_docker_para_prope](contenedor_de_docker_para_prope.ipynb)
 
 ## Ramas del repositorio.
 
@@ -24,7 +26,7 @@ En este repositorio se han creado diferentes ramas que pueden ser accesadas como
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
 
-**Dar click en [prope-2021](https://github.com/ITAM-DS/Propedeutico/tree/prope-2021) para la rama del curso del verano 2021.**
+**En [prope-2021](https://github.com/ITAM-DS/Propedeutico/tree/prope-2021) acceden a la rama del curso del verano 2021.**
 
 ## Breve explicación del repositorio en la rama main.
 
@@ -36,7 +38,7 @@ En la carpeta [herramientas](/herramientas) encuentran información de herramien
 
 \* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) para funcionalidad de los notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje *R*, por ejemplo, en tales notebooks).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- al dar click en este botón, de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- con este botón de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
 
 [![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](Python) y de [R](R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de *Python3*, *R* y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
 
@@ -53,7 +55,6 @@ Esta organización tiene integrados los siguientes botones de [repl.it](https://
 
 
 
-
 ## Índice de notas
 
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
@@ -61,8 +62,6 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 **[Python](Python)**
 
 **Introducción:**
-
-[0. Contenedor de docker para Python3](Python/clases/1_introduccion/0_contenedor_de_docker_para_Python3.ipynb)
 
 [1. Información general](Python/clases/1_introduccion/1_informacion_general.ipynb)
 
@@ -95,8 +94,6 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 **[R](R)**
 
 **Introducción:**
-
-[0. Contenedor de docker para R](R/clases/1_introduccion/0_contenedor_de_docker_para_R.ipynb)
 
 [1. Información general](R/clases/1_introduccion/1_informacion_general.ipynb)
 
