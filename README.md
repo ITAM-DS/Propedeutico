@@ -73,3 +73,17 @@ Llegamos hasta regla simple del rectángulo [1_aproximacion_a_derivadas_e_integr
 Finalizamos [1_aproximacion_a_derivadas_e_integrales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
 Llegamos hasta espacios vectoriales de [0_definiciones_generales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
+
+
+## Clase 7
+
+14 de junio
+
+Finalizamos:
+
+
+* [0_definiciones_generales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
+
+* [1_ecuaciones_lineales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
+
+Llegamos hasta ejemplo de uso de `polyfit` en [2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
