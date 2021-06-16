@@ -87,3 +87,17 @@ Finalizamos:
 * [1_ecuaciones_lineales](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
 Llegamos hasta ejemplo de uso de `polyfit` en [2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+
+
+## Clase 8
+
+15 de junio
+
+Finalizamos:
+
+* [2_interpolacion](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+
+* [3_minimos_cuadrados](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
+
+
+Llegamos hasta definición de valores, vectors singulares [4_SVD_y_reconstruccion_de_imagenes](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
