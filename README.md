@@ -109,3 +109,13 @@ Llegamos hasta definición de valores, vectores singulares [4_SVD_y_reconstrucci
 Finalizamos [4_SVD_y_reconstruccion_de_imagenes](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
 Revisión de dos entregas de estudiantes de la práctica semanal #2 en clase para su corrección y discusión.
+
+# Clase 10
+
+21 de junio
+
+Finalizamos 
+
+* [1_informacion_general](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+* [2_core_R](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/2_core_R.ipynb)
