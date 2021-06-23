@@ -119,3 +119,18 @@ Finalizamos
 * [1_informacion_general](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/1_informacion_general.ipynb)
 
 * [2_core_R](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/2_core_R.ipynb)
+
+# Clase 11
+
+22 de junio 
+
+Finalizamos:
+
+* [1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
+
+* [2_propiedades_de_la_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
+
+* [3_metodos_de_conteo.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb)
+
+
+ 
