@@ -133,4 +133,16 @@ Finalizamos:
 * [3_metodos_de_conteo.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb)
 
 
- 
+# Clase 12
+
+23 de junio
+
+Finalizamos:
+
+* [4_probabilidad_condicional](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+* [5_independencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/5_independencia.ipynb)
+
+* [6_teorema_de_Bayes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
+
+Llegamos hasta distribución de probabilidad de una variable aleatoria [7_variables_aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
