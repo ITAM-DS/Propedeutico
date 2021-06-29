@@ -146,3 +146,13 @@ Finalizamos:
 * [6_teorema_de_Bayes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
 
 Llegamos hasta distribución de probabilidad de una variable aleatoria [7_variables_aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+# Clase 13
+
+28 de junio
+
+Finalizamos:
+
+* [7_variables_aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+Llegamos hasta medidas de dispersión en [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
