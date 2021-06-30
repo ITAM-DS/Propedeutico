@@ -156,3 +156,14 @@ Finalizamos:
 * [7_variables_aleatorias](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
 Llegamos hasta medidas de dispersión en [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+# Clase 14
+
+Finalizamos:
+
+* [Elementos de Estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+* [Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+
+* [Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+
