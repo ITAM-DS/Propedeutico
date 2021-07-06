@@ -81,6 +81,9 @@ Antes de instalar cualquier distribución de Linux, debes habilitar el subsistem
 #### Referencias.
 
 * [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package](https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
 * [https://docs.docker.com/docker-for-windows/wsl/](https://docs.docker.com/docker-for-windows/wsl/)
 * [https://aka.ms/wsl2kernel](https://aka.ms/wsl2kernel)
 * [https://www.docker.com/get-started](https://www.docker.com/get-started)
+* [Video: How to INSTALL DOCKER on Windows 10](https://www.youtube.com/watch?v=5I6AKxrCHBI)
+
