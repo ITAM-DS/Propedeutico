@@ -1,9 +1,9 @@
 # Propedeutico 
 Propedéutico de la MCD en el ITAM  
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2021**)
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2021**)
 
 ### [Lista de estudiantes](https://drive.google.com/file/d/1jsj9F6kJU7kLLx5qJIlS56v8Wx7Ul5Ve/view?usp=sharing)
 
@@ -161,9 +161,14 @@ Llegamos hasta medidas de dispersión en [1_elementos_de_estadistica_descriptiva
 
 Finalizamos:
 
-* [Elementos de Estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+* [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
 
-* [Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+* [2_distribuciones_comunes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
-* [Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+* [3_elementos_de_inferencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
+# Clase 15
+
+Finalizamos [4_regresion_lineal](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/4_regresion_lineal.ipynb)
+
+Iniciamos las presentaciones de la práctica final equipos 1 y 2.
