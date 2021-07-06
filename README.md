@@ -161,9 +161,14 @@ Llegamos hasta medidas de dispersión en [1_elementos_de_estadistica_descriptiva
 
 Finalizamos:
 
-* [Elementos de Estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+* [1_elementos_de_estadistica_descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
 
-* [Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+* [2_distribuciones_comunes](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
-* [Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+* [3_elementos_de_inferencia](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
+# Clase 15
+
+Finalizamos [4_regresion_lineal](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/4_regresion_lineal.ipynb)
+
+Iniciamos las presentaciones de la práctica final equipos 1 y 2.
