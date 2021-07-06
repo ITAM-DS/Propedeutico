@@ -1,9 +1,9 @@
 # Propedeutico 
 Propedéutico de la MCD en el ITAM  
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2021**)
 
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano xxxx**)
+[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2021**)
 
 ### [Lista de estudiantes](https://drive.google.com/file/d/1jsj9F6kJU7kLLx5qJIlS56v8Wx7Ul5Ve/view?usp=sharing)
 
