@@ -172,3 +172,7 @@ Finalizamos:
 Finalizamos [4_regresion_lineal](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/4_regresion_lineal.ipynb)
 
 Iniciamos las presentaciones de la práctica final equipos 1 y 2.
+
+# Clase 16
+
+Terminamos presentaciones de la práctica final equipos 3, 4 y 5.
