@@ -30,9 +30,9 @@ Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del 
 
 ## Breve explicación del repositorio en la rama main.
 
-En la carpeta [Python](Python) encuentran temas del cálculo numérico en *Python3*\*.
+En la carpeta [Python](Python) encuentran temas del cálculo numérico en *Python3*.
 
-En la carpeta [R](R) encuentran temas de probabilidad y estadística en *R*\*.
+En la carpeta [R](R) encuentran temas de probabilidad y estadística en *R*.
 
 En la carpeta [herramientas](/herramientas) encuentran información de herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
 
