@@ -36,9 +36,33 @@ En la carpeta [R](R) encuentran temas de probabilidad y estadística en *R*\*.
 
 En la carpeta [herramientas](/herramientas) encuentran información de herramientas como [docker](https://www.docker.com/), [git](https://git-scm.com/) y [bash](https://www.gnu.org/software/bash/).
 
-\* Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales notebooks. Ver [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) para funcionalidad de los notebooks. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en jupyter (que hacen posible ejecutar instrucciones en el lenguaje *R*, por ejemplo, en tales notebooks).
+## Sobre las notas
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyerse?urlpath=lab/tree/Propedeutico) <--- con este botón de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
+Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.org/). Ver [I python, You R, We Julia](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6) para algunas características de tales *notebooks*. Ver [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) para funcionalidad de los *notebooks*. Ver [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) para una tabla de los [kernels](https://jupyter.readthedocs.io/en/latest/install-kernel.html) disponibles en *jupyter* (que hacen posible ejecutar instrucciones en el lenguaje *R*, por ejemplo, en tales notebooks).
+
+### Para convertir una nota a pdf
+
+Para una nota con nombre `<nota>.ipynb`
+
+Usar botón de [binder](https://mybinder.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyverse?urlpath=lab/tree/Propedeutico)
+
+Abrir una nueva terminal, posicionarse en el directorio en el que se encuentra la nota:
+
+```
+bash
+cd <directorio donde está la nota>
+jupyter-nbconvert --to webpdf <name of notebook>.ipynb
+```
+
+El pdf estará dentro del directorio en el que está la nota y se puede descargar dando click derecho en la barra lateral izquierda del *jupyterlab*.
+
+
+<img width="350" alt="imagen" src="https://user-images.githubusercontent.com/3290689/127781146-b3176fe9-cce2-4404-a8f2-1d207ac337ab.png">  
+
+
+## Interactividad
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyverse?urlpath=lab/tree/Propedeutico) <--- con este botón de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
 
 [![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](Python) y de [R](R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de *Python3*, *R* y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
 
