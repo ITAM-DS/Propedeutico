@@ -15,7 +15,7 @@ Este es el repositorio para el propedéutico (*aka* prope) de la MCD en el ITAM 
 
 \* Tal imagen de *docker* se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` desde la terminal una vez hayan instalado *docker* en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
 
-Para uso de la imagen de docker anterior ver [contenedor_de_docker_para_prope](contenedor_de_docker_para_prope.ipynb)
+Para uso de la imagen de *docker* anterior ver [contenedor_de_docker_para_prope](contenedor_de_docker_para_prope.ipynb)
 
 ## Ramas del repositorio.
 
