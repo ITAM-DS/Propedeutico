@@ -42,8 +42,6 @@ Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.or
 
 ### Para convertir una nota a pdf
 
-Para una nota con nombre `<nota>.ipynb`
-
 Usar botón de [binder](https://mybinder.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyverse?urlpath=lab/tree/Propedeutico)
 
 Abrir una nueva terminal, posicionarse en el directorio en el que se encuentra la nota y ejecutar lo siguiente:
@@ -51,7 +49,7 @@ Abrir una nueva terminal, posicionarse en el directorio en el que se encuentra l
 ```
 bash
 cd <directorio donde está la nota>
-jupyter-nbconvert --to webpdf <name of notebook>.ipynb
+jupyter-nbconvert --to webpdf <nombre de la nota>.ipynb
 ```
 
 El pdf estará dentro del directorio en el que está la nota y se puede descargar dando click derecho en la barra lateral izquierda del *jupyterlab*.
