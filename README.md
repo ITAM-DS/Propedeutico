@@ -44,7 +44,7 @@ Las notas de cada tema están escritas en [Jupyter notebooks](https://jupyter.or
 
 Usar botón de [binder](https://mybinder.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyverse?urlpath=lab/tree/Propedeutico)
 
-Abrir una nueva terminal, posicionarse en el directorio en el que se encuentra la nota y ejecutar lo siguiente:
+Abrir una nueva terminal y ejecutar lo siguiente:
 
 ```
 bash
