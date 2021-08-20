@@ -12,6 +12,7 @@ Información sobre docker:
 
 * Para instalación: [Get docker](https://docs.docker.com/install/) 
 
+* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 docker online: (crear una cuenta en [dockerhub](https://hub.docker.com/))
 
