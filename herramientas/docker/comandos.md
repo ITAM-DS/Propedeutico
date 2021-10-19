@@ -150,10 +150,11 @@ dir_montar=<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta 
 PASSWORD=qwerty
 
 
-docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name rstudio-container -e PASSWORD=$PASSWORD rocker/rstudio:4.0.0-ubuntu18.04
+docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name rstudio-container -e PASSWORD=$PASSWORD rocker/rstudio:4.1.1
+
 ```
 
 User: `rstudio` y password: `qwerty`. Ir a `localhost:8787`
 
-Ver https://hub.docker.com/r/rocker/rstudio/tags para los tags que existen (en el caso anterior se usa `4.0.0-ubuntu18.04`)
+Ver https://hub.docker.com/r/rocker/rstudio/tags y https://github.com/rocker-org/rocker-versioned2 para los tags que existen (en el caso anterior se usa `rstudio:4.1.1`)
 
