@@ -143,15 +143,15 @@ lsb_release -a
 
 * [Rocker](https://github.com/rocker-org/rocker)
 
+Ver [rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) y [rocker](https://github.com/rocker-org/rocker)
+
 ```
 dir_montar=<ruta completa de mi máquina a mi directorio>#aquí colocar la ruta al directorio a montar, por ejemplo: 
 #dir_montar=/Users/erick/midirectorio.
 
 PASSWORD=qwerty
 
-
-docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name rstudio-container -e PASSWORD=$PASSWORD rocker/rstudio:4.1.1
-
+docker run --rm -d -p 8787:8787 -v $dir_montar:/home/rstudio/ --name rstudio-container -e PASSWORD=$PASSWORD rocker/tidyverse:4.1.1
 ```
 
 User: `rstudio` y password: `qwerty`. Ir a `localhost:8787`
