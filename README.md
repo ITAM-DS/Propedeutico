@@ -6,7 +6,7 @@ Este es el repositorio para el propedéutico (*aka* prope) de la MCD en el ITAM 
 
 ### En [liga2](https://hackmd.io/@palmoreck/rJQQIEmbv) una presentación de introducción al prope verano 2021.
 
-### Con el siguiente botón pueden unirse\* al chat del verano del 2021 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2021/community.svg)](https://gitter.im/prope-2021/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Con el siguiente botón pueden unirse\* al chat del verano del 2022 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2022/community.svg)](https://gitter.im/prope-2022/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 \***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
