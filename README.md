@@ -1,6 +1,6 @@
 # Propedeutico
 
-Este es el repositorio para el propedéutico (*aka* prope) de la MCD en el ITAM impartido por el **Prof. Erick Palacios Moreno**, github: [palmoreck](https://github.com/palmoreck).
+En este repositorio encuentran el contenido para el propedéutico (*aka* prope) de la MCD en el ITAM impartido por el prof. Erick Palacios Moreno, github: [palmoreck](https://github.com/palmoreck).
 
 ### En [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) encuentran el temario.
 
@@ -11,9 +11,9 @@ Este es el repositorio para el propedéutico (*aka* prope) de la MCD en el ITAM 
 
 \***Se puede hacer el registro con su cuenta de [github](https://github.com/)**.
 
-### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
+### En el prope utilizaremos la imagen de [docker](https://www.docker.com/) `palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.4.3` cuya documentación la encuentran [aquí](https://github.com/palmoreck/dockerfiles/tree/master/jupyterlab/prope_r_kernel_tidyverse)\*. 
 
-\* Tal imagen de *docker* se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.0.16` desde la terminal una vez hayan instalado *docker* en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
+\* Tal imagen de *docker* se descarga con un `docker pull palmoreck/jupyterlab_prope_r_kernel_tidyverse:3.4.3` desde la terminal una vez hayan instalado *docker* en sus computadoras. Ver [herramientas/docker/](herramientas/docker/) para referencias de docker.
 
 Para uso de la imagen de *docker* anterior ver [contenedor_de_docker_para_prope](contenedor_de_docker_para_prope.ipynb)
 
@@ -26,7 +26,7 @@ En este repositorio se han creado diferentes ramas que pueden ser accesadas como
 Seleccionar por ejemplo la rama **prope-2019-1** (u otra) para información del curso propedéutico de 2019.
 
 
-**En [prope-2021](https://github.com/ITAM-DS/Propedeutico/tree/prope-2021) acceden a la rama del curso del verano 2021.**
+**En [prope-2022](https://github.com/ITAM-DS/Propedeutico/tree/prope-2022) acceden a la rama del curso del verano 2022.**
 
 ## Breve explicación del repositorio en la rama main.
 
@@ -67,14 +67,7 @@ El pdf estará dentro del directorio en el que está la nota y se puede descarga
 
 ## Organización de github classroom
 
-La organización [prope-2021-gh-classroom](https://github.com/prope-2021-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2021 :)
-
-Esta organización tiene integrados los siguientes botones de [repl.it](https://repl.it/) para el curso de verano 2021:
-
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-Python)](https://replit.com/@palmoreck/repo-for-replit-Python-2021) (botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano 2021**)
-
-[![Run on Repl.it](https://repl.it/badge/github/prope-2021-gh-classroom/repo-for-repl.it-R)](https://replit.com/@palmoreck/repo-for-replit-R-2021) (botón de **Repl.it para R con prácticas *multiplayer* para el verano 2021**)
-
+La organización [prope-2022-gh-classroom](https://github.com/prope-2022-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2022 :)
 
 
 ## Índice de notas
