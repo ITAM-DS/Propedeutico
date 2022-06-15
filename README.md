@@ -1,13 +1,7 @@
 # Propedeutico 
 Propedéutico de la MCD en el ITAM  
 
-(botón de **Repl.it para Python3 con prácticas *multiplayer* para el verano xxxx**)
-
-(botón de **Repl.it para R con prácticas *multiplayer* para el verano xxxx**)
-
-[Lista de estudiantes]()
-
-[Organización gh-classroom]()
+[Organización gh-classroom](https://github.com/prope-2022-gh-classroom)
 
 ## Organización del propedéutico:
 
