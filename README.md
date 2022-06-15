@@ -62,9 +62,6 @@ El pdf estará dentro del directorio en el que está la nota y se puede descarga
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/dockerfiles-for-binder/jupyterlab_prope_r_kernel_tidyverse?urlpath=lab/tree/Propedeutico) <--- con este botón de una forma interactiva se pueden ejecutar los notebooks de jupyter tanto para *Python3* como para *R* dentro de los directorios de [Python](Python) y de [R](R).
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/dummy)](https://repl.it/@palmoreck/dummy) <--- este botón lo podrán encontrar en los directorios de [Python](Python) y de [R](R). Tal botón utiliza [repl.it](https://repl.it/) que ayuda a escribir códigos de forma colaborativa en el lenguaje de *Python3*, *R* y otros. Al dar click se crearán nuevos ***repl*** debajo de sus users de ***repl.it***.
-
-
 ## Organización de github classroom
 
 La organización [prope-2022-gh-classroom](https://github.com/prope-2022-gh-classroom) fue creada para alojar repositorios de [github classroom](https://classroom.github.com/) (ver [github education](https://github.com/education)). Esta organización será nuestro *playground* para el curso de verano 2022 :)
