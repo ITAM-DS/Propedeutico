@@ -15,3 +15,5 @@ Propedéutico de la MCD en el ITAM
 | semana 6 | entrega/exposición de práctica final|
 
 ## Clase 1
+
+Revisión de presentación del curso y breve intro a git, bash, docker, jupyterlab y markdown
