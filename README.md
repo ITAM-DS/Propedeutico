@@ -17,3 +17,8 @@ Propedéutico de la MCD en el ITAM
 ## Clase 1
 
 Revisión de presentación del curso y breve intro a git, bash, docker, jupyterlab y markdown
+
+
+## Clase 2
+
+Revisión a git, bash, docker, jupyterlab e [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
