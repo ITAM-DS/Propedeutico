@@ -22,3 +22,13 @@ Revisión de presentación del curso y breve intro a git, bash, docker, jupyterl
 ## Clase 2
 
 Revisión a git, bash, docker, jupyterlab e [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
+
+Creación de cuentas en AWS Academy y [1.0.AWS-Academy](https://github.com/ITAM-DS/Propedeutico/wiki/1.0.AWS-Academy)
+
+## Clase 3
+
+Revisión de [1.1.Lanzamiento-de-comandos-de-docker-en-una-instancia-de-AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.1.Lanzamiento-de-comandos-de-docker-en-una-instancia-de-AWS)
+
+Finalizamos [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
+
+Finalizamos [2_core_python.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/2_core_python.ipynb) y dimos un vistazo a [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
