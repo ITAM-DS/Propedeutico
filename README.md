@@ -32,3 +32,7 @@ Revisión de [1.1.Lanzamiento-de-comandos-de-docker-en-una-instancia-de-AWS](htt
 Finalizamos [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
 
 Finalizamos [2_core_python.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/2_core_python.ipynb) y dimos un vistazo a [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
+## Clase 4
+
+Finalizamos [3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
