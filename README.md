@@ -36,3 +36,9 @@ Finalizamos [2_core_python.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/m
 ## Clase 4
 
 Finalizamos [3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
+
+## Clase 5
+
+Finalizamos [0_modulo_sympy.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/0_modulo_sympy.ipynb)
+
+Llegamos hasta regla simple del rectángulo en [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
