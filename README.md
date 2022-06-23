@@ -42,3 +42,12 @@ Finalizamos [3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutic
 Finalizamos [0_modulo_sympy.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/0_modulo_sympy.ipynb)
 
 Llegamos hasta regla simple del rectángulo en [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+
+## Clase 6
+
+Finalizamos [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
+
+Llegamos hasta espacios vectoriales en [0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
+
+
