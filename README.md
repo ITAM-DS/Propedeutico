@@ -138,3 +138,20 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 [3. Elementos de inferencia](R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
 [4. Regresión lineal](R/clases/3_estadistica/4_regresion_lineal.ipynb)
+
+
+# Sobre lo que nunca deben realizar
+
+Copiar en un examen/tarea/trabajo/entrega pues se pondrá cero en el mismo. Si vuelve a repetirse la situación se le notificará a dirección escolar para realizar la anotación correspondiente en su expediente.
+
+# Sobre lo que siempre deben realizar
+
+Documentar sus referencias, fuentes, colaboraciones y material que utilizan para resolver sus exámenes, prácticas o proyectos.
+
+# Para aprobar el propedéutico
+
+La calificación final del prope es Acreditado/No Acreditado pero internamente manejamos calificaciones en el intervalo [0,10]\*.
+
+\*La calificación interna se compone de las **prácticas semanales** (en conjunto forman el 70%), la práctica final (30%) y se acredita con calificación mayor o igual a 6.
+
+**Tienen oportunidad de no entregar o reprobar máximo dos prácticas. En cuanto lleguen a las tres que no entregan o reprueban tienen cero en el propedéutico y por tanto es no acreditado.**
