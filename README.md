@@ -14,12 +14,18 @@ Propedéutico de la MCD en el ITAM
 | semana 5 |aplicaciones de estadística: regresión lineal, componentes principales|
 | semana 6 | entrega/exposición de práctica final|
 
+**Semana 1**
+
 ## Clase 1
+
+15 de junio
 
 Revisión de presentación del curso y breve intro a git, bash, docker, jupyterlab y markdown
 
 
 ## Clase 2
+
+16 de junio
 
 Revisión a git, bash, docker, jupyterlab e [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
 
@@ -27,17 +33,25 @@ Creación de cuentas en AWS Academy y [1.0.AWS-Academy](https://github.com/ITAM-
 
 ## Clase 3
 
+17 de junio
+
 Revisión de [1.1.Lanzamiento-de-comandos-de-docker-en-una-instancia-de-AWS](https://github.com/ITAM-DS/Propedeutico/wiki/1.1.Lanzamiento-de-comandos-de-docker-en-una-instancia-de-AWS)
 
 Finalizamos [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/1_informacion_general.ipynb)
 
 Finalizamos [2_core_python.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/2_core_python.ipynb) y dimos un vistazo a [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
+**Semana 2**
+
 ## Clase 4
+
+20 de junio
 
 Finalizamos [3_funciones_y_modulos.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/3_funciones_y_modulos.ipynb) y [4_modulos_numpy_matplotlib.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/1_introduccion/4_modulos_numpy_matplotlib.ipynb)
 
 ## Clase 5
+
+21 de junio
 
 Finalizamos [0_modulo_sympy.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/0_modulo_sympy.ipynb)
 
@@ -45,6 +59,8 @@ Llegamos hasta regla simple del rectángulo en [1_aproximacion_a_derivadas_e_int
 
 
 ## Clase 6
+
+22 de junio
 
 Finalizamos [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/2_calculo_DeI/1_aproximacion_a_derivadas_e_integrales.ipynb)
 
