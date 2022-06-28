@@ -66,4 +66,10 @@ Finalizamos [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/I
 
 Llegamos hasta espacios vectoriales en [0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
 
+## Clase 7
+
+27 de junio
+
+Finalizamos [0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
+
 
