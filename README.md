@@ -72,4 +72,10 @@ Llegamos hasta espacios vectoriales en [0_definiciones_generales.ipynb](https://
 
 Finalizamos [0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb) y [1_ecuaciones_lineales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/1_ecuaciones_lineales.ipynb)
 
+## Clase 8
 
+28 de junio
+
+Finalizamos [2_interpolacion.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/2_interpolacion.ipynb)
+
+Llegamos hasta ajuste de un modelo por mínimos cuadrados lineales con funciones no lineales en [3_minimos_cuadrados.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
