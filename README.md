@@ -85,3 +85,9 @@ Llegamos hasta ajuste de un modelo por mínimos cuadrados lineales con funciones
 29 de junio
 
 Finalizamos [3_minimos_cuadrados.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb) y [4_SVD_y_reconstruccion_de_imagenes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+
+## Clase 10
+
+4 de julio
+
+Revisamos [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/1_informacion_general.ipynb)
