@@ -91,3 +91,19 @@ Finalizamos [3_minimos_cuadrados.ipynb](https://github.com/ITAM-DS/Propedeutico/
 4 de julio
 
 Revisamos [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+## Clase 11
+
+5 de julio
+
+Terminamos:
+
+* [1_informacion_general.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/1_informacion_general.ipynb)
+
+* [2_core_R.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/2_core_R.ipynb)
+
+* [3_ggplot2.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/1_introduccion/3_ggplot2.ipynb)
+
+* [1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
+
+* [2_propiedades_de_la_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
