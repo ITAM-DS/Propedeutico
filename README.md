@@ -107,3 +107,17 @@ Terminamos:
 * [1_elementos_de_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/1_elementos_de_probabilidad.ipynb)
 
 * [2_propiedades_de_la_probabilidad.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/2_propiedades_de_la_probabilidad.ipynb)
+
+## Clase 12
+
+6 de julio
+
+Terminamos:
+
+* [3_metodos_de_conteo.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/3_metodos_de_conteo.ipynb)
+
+* [4_probabilidad_condicional.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/4_probabilidad_condicional.ipynb)
+
+* [5_independencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/5_independencia.ipynb)
+
+* [6_teorema_de_Bayes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
