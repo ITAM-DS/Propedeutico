@@ -66,6 +66,8 @@ Finalizamos [1_aproximacion_a_derivadas_e_integrales.ipynb](https://github.com/I
 
 Llegamos hasta espacios vectoriales en [0_definiciones_generales.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/0_definiciones_generales.ipynb)
 
+**Semana 3**
+
 ## Clase 7
 
 27 de junio
@@ -85,6 +87,8 @@ Llegamos hasta ajuste de un modelo por mínimos cuadrados lineales con funciones
 29 de junio
 
 Finalizamos [3_minimos_cuadrados.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb) y [4_SVD_y_reconstruccion_de_imagenes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+
+**Semana 4**
 
 ## Clase 10
 
@@ -121,3 +125,15 @@ Terminamos:
 * [5_independencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/5_independencia.ipynb)
 
 * [6_teorema_de_Bayes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/6_teorema_de_Bayes.ipynb)
+
+**Semana 5**
+
+## Clase 13
+
+11 de julio
+
+Terminamos:
+
+* [7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
+
+* [1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
