@@ -137,3 +137,13 @@ Terminamos:
 * [7_variables_aleatorias.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/2_probabilidad/7_variables_aleatorias.ipynb)
 
 * [1_elementos_de_estadistica_descriptiva.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+
+## Clase 14
+
+12 de julio
+
+Terminamos:
+
+* [2_distribuciones_comunes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
+
+Llegamos hasta nivel de significancia en [3_elementos_de_inferencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
