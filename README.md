@@ -147,3 +147,13 @@ Terminamos:
 * [2_distribuciones_comunes.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
 Llegamos hasta nivel de significancia en [3_elementos_de_inferencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+
+## Clase 15
+
+13 de julio
+
+Terminamos:
+
+* [3_elementos_de_inferencia.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
+
+* [4_regresion_lineal.ipynb](https://github.com/ITAM-DS/Propedeutico/blob/main/R/clases/3_estadistica/4_regresion_lineal.ipynb)
